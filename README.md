@@ -19,3 +19,5 @@ Often, the internal threats are accidental, such as an employee clicking on a co
 Security teams also ensure compliance with regulations and laws that may require implementation of certain security standards. This prevents organizations from fines and other charges, while allowing them to satisfy their ethical obligation to protect their users.
 
 Security teams also maintain and improve business productivity, by establishing business continuity plans. This allows employees to do their jobs even in the case of an event such as a data breach.
+
+Upholding security reduces expenses because of downtime, breaches and fines. It also helps in maintaining brand trust.
