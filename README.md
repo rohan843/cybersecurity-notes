@@ -31,4 +31,8 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
 4. **Security Posture**: It is an organization's ability to manage its defence of critical assets and data and react to change. A strong security posture leads to lower risk for the organization.
 5. **Threat Actor**: [aka **malicious attacker**] Any person or group that poses a security risk. The risk may relate to computers, applications, networks and data.
 6. **Network Security**: It is the practice of keeping an organization's network infrastructure secure from unauthorized access. This includes services, data, systems and devices that are stored in an organization's network.
-7. **Cloud Security**: It is the process of ensuring that assets stored in the cloud are properly configured, or set up correctly and access to those assets is limited to authorized users. 
+7. **Cloud Security**: It is the process of ensuring that assets stored in the cloud are properly configured, or set up correctly and access to those assets is limited to authorized users.
+8. **Programming**: The process to create a specific set of instructions for a computer to execute tasks such as:
+   1. Automation of repetitive tasks (e.g., searching a list of malicious domains)
+   2. Reviewing web traffic
+   3. Alerting suspicious activity
