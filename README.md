@@ -5,6 +5,7 @@
 - [Cybersecurity Notes](#cybersecurity-notes)
   - [Contents](#contents)
   - [Cybersecurity](#cybersecurity)
+    - [Common Terms](#common-terms)
 
 ## Cybersecurity
 
@@ -21,3 +22,9 @@ Security teams also ensure compliance with regulations and laws that may require
 Security teams also maintain and improve business productivity, by establishing business continuity plans. This allows employees to do their jobs even in the case of an event such as a data breach.
 
 Upholding security reduces expenses because of downtime, breaches and fines. It also helps in maintaining brand trust.
+
+### Common Terms
+
+1. **Compliance**: The process of adhering to internal standards and external regulations. It enables organizations to avoid fines and security breaches.
+2. **Security Frameworks**: These are guidelines used for building plans to help mitigate risks and threats to data and privacy.
+3. 
