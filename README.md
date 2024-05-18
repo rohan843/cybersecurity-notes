@@ -29,3 +29,6 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
 2. **Security Frameworks**: These are guidelines used for building plans to help mitigate risks and threats to data and privacy.
 3. **Security Controls**: They are safeguards designed to reduce _specific_ security risks. They are used with security frameworks to establish a strong security posture.
 4. **Security Posture**: It is an organization's ability to manage its defence of critical assets and data and react to change. A strong security posture leads to lower risk for the organization.
+5. **Threat Actor**: [aka **malicious attacker**] Any person or group that poses a security risk. The risk may relate to computers, applications, networks and data.
+6. **Network Security**: It is the practice of keeping an organization's network infrastructure secure from unauthorized access. This includes services, data, systems and devices that are stored in an organization's network.
+7. **Cloud Security**: It is the process of ensuring that assets stored in the cloud are properly configured, or set up correctly.
