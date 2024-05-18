@@ -37,6 +37,6 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
    2. Reviewing web traffic
    3. Alerting suspicious activity
 9. **Personally Identifiable Information (PII)**: Any information used to infer an individual's identity.
-10. **Sensitive Personally Identifiable Information (SPII)**: A specific type of PII that falls under stricter handling guidelines.
+10. **Sensitive Personally Identifiable Information (SPII)**: A specific type of PII that falls under stricter handling guidelines, such as AadharID.
 
 More information of cybersecurity terms is available at the [NIST Glossary](https://csrc.nist.gov/glossary).
