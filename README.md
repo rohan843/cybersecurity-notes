@@ -27,4 +27,5 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
 
 1. **Compliance**: The process of adhering to internal standards and external regulations. It enables organizations to avoid fines and security breaches.
 2. **Security Frameworks**: These are guidelines used for building plans to help mitigate risks and threats to data and privacy.
-3. 
+3. **Security Controls**: They are safeguards designed to reduce _specific_ security risks. They are used with security frameworks to establish a strong security posture.
+4. **Security Posture**: It is an organization's ability to manage its defence of critical assets and data and react to change. A strong security posture leads to lower risk for the organization.
