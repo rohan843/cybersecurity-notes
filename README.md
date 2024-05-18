@@ -36,5 +36,6 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
    1. Automation of repetitive tasks (e.g., searching a list of malicious domains)
    2. Reviewing web traffic
    3. Alerting suspicious activity
+9. **Personally Identifiable Information (PII)**: Any information used to infer an individual's identity.
 
 More information of cybersecurity terms is available at the [NIST Glossary](https://csrc.nist.gov/glossary).
