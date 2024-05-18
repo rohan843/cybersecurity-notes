@@ -29,15 +29,16 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
 2. **Security Frameworks**: These are guidelines used for building plans to help mitigate risks and threats to data and privacy.
 3. **Security Controls**: They are safeguards designed to reduce _specific_ security risks. They are used with security frameworks to establish a strong security posture.
 4. **Security Posture**: It is an organization's ability to manage its defence of critical assets and data and react to change. A strong security posture leads to lower risk for the organization.
-5. **Threat Actor**: [aka **malicious attacker**] Any person or group that poses a security risk. The risk may relate to computers, applications, networks and data.
-6. **Network Security**: It is the practice of keeping an organization's network infrastructure secure from unauthorized access. This includes services, data, systems and devices that are stored in an organization's network.
-7. **Cloud Security**: It is the process of ensuring that assets stored in the cloud are properly configured, or set up correctly and access to those assets is limited to authorized users.
-8. **Programming**: The process to create a specific set of instructions for a computer to execute tasks such as:
+5. **Threat**: Any circumstance or event that can negatively impact assets.
+6. **Threat Actor**: [aka **malicious attacker**] Any person or group that poses a security risk. The risk may relate to computers, applications, networks and data.
+7. **Network Security**: It is the practice of keeping an organization's network infrastructure secure from unauthorized access. This includes services, data, systems and devices that are stored in an organization's network.
+8. **Cloud Security**: It is the process of ensuring that assets stored in the cloud are properly configured, or set up correctly and access to those assets is limited to authorized users.
+9. **Programming**: The process to create a specific set of instructions for a computer to execute tasks such as:
    1. Automation of repetitive tasks (e.g., searching a list of malicious domains)
    2. Reviewing web traffic
    3. Alerting suspicious activity
-9. **Personally Identifiable Information (PII)**: Any information used to infer an individual's identity.
-10. **Sensitive Personally Identifiable Information (SPII)**: A specific type of PII that falls under stricter handling guidelines, such as AadharID or biometric data. SPII theft poses a significantly larger threat to an individual as compared to PII theft.
+10. **Personally Identifiable Information (PII)**: Any information used to infer an individual's identity.
+11. **Sensitive Personally Identifiable Information (SPII)**: A specific type of PII that falls under stricter handling guidelines, such as AadharID or biometric data. SPII theft poses a significantly larger threat to an individual as compared to PII theft.
 
 > PII and SPII are major targets for actors engaging in identity theft (the act of stealing personal information to commit fraud while impersonating a victim; its primary objective is financial gain).
 
