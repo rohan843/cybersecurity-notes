@@ -39,4 +39,6 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
 9. **Personally Identifiable Information (PII)**: Any information used to infer an individual's identity.
 10. **Sensitive Personally Identifiable Information (SPII)**: A specific type of PII that falls under stricter handling guidelines, such as AadharID or biometric data. SPII theft poses a significantly larger threat to an individual as compared to PII theft.
 
+> PII and SPII are major targets for actors engaging in identity theft (the act of stealing personal information to commit fraud while impersonating a victim).
+
 More information of cybersecurity terms is available at the [NIST Glossary](https://csrc.nist.gov/glossary).
