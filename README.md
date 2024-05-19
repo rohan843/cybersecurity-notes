@@ -134,3 +134,4 @@ Some common types of these attacks are:
 2. **Spear Phishing**: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
 3. **Whaling**: It is a form of spear phishing, where threat actors target company executives to gain access to sensitive data.
 4. **Vishing**: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+5. **Smishing**: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
