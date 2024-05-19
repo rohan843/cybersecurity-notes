@@ -10,8 +10,10 @@
     - [Brain Virus](#brain-virus)
     - [Morris Worm](#morris-worm)
   - [Modern Cybersecurity Attacks](#modern-cybersecurity-attacks)
-    - [LoveLetter Attack](#loveletter-attack)
+    - [LoveLetter Attack (aka ILOVEYOU virus)](#loveletter-attack-aka-iloveyou-virus)
     - [Equifax Breach](#equifax-breach)
+  - [Common Cybersecurity Attacks](#common-cybersecurity-attacks)
+    - [Phishing](#phishing)
 
 ## Cybersecurity
 
@@ -90,7 +92,7 @@ With the spread of the Internet, lots of computers are accessible without the ne
 
 We will examine 2 notable attacks that relied on the Internet: the **LoveLetter Attack** and the **Equifax Breach**.
 
-### LoveLetter Attack
+### LoveLetter Attack (aka ILOVEYOU virus)
 
 In the year 2000, Onel de Guzman created the LoveLetter malware to steal Internet login credentials. This attack spread rapidly. The people who weren't yet suspicious of unsolicited emails were especially affected.
 
@@ -119,3 +121,9 @@ The breach occurred due to multiple failures on Equifax's part. The company fail
 The company had to pay over $575 million to resolve customer complaints and cover required fines.
 
 This large fine alerted other companies to take measures to prevent such a breach on their systems.
+
+## Common Cybersecurity Attacks
+
+### Phishing
+
+Phishing is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.
