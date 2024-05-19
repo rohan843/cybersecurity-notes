@@ -94,3 +94,7 @@ We will examine 2 notable attacks that relied on the Internet: the **LoveLetter 
 In the year 2000, Onel de Guzman created the LoveLetter malware to steal Internet login credentials. This attack spread rapidly. The people who weren't yet suspicious of unsolicited emails were especially affected.
 
 Victims recieved an email with the subject line `I Love You`, and an attachment labelled `Love Letter For You`. When the attachment was opened, the malware scanned the user's address book. Then, it automatically sent itself to each person on the list, and installed a program to collect user information and passwords.
+
+Recipients would think that they are recieving an email from a friend, but it would actually be malware.
+
+This malware ended up affecting **45 million computers** globally, and is believed to have caused over **$10 billion** in damages.
