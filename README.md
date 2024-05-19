@@ -205,4 +205,4 @@ The domains are:
 5. **Identity and Access Management**: It keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications. This includes validating employees' identities and documenting their access roles. For e.g., setting up employees' key card access to buildings.
 6. **Security Assessment and Testing**: It involves conducting security control testing, collecting and analysing data and conducting security audits to monitor for risks, threats and vulnerabilities. For e.g., conducting audits to ensure access to payroll data is only given to those emplyees who require it.
 7. **Security Operations**: Conducting investigations and implementing preventative measures. E.g., addressing an alert that an unknown device has connected to the network.
-8. **Software Development Security**:
+8. **Software Development Security**: Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services.
