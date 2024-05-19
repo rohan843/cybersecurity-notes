@@ -18,7 +18,7 @@
     - [Social Engineering](#social-engineering)
       - [Social Engineering Principles](#social-engineering-principles)
     - [Data Breaches: Maintain your cool](#data-breaches-maintain-your-cool)
-  - [CISSP Domains](#cissp-domains)
+  - [CISSP Security Domains](#cissp-security-domains)
 
 ## Cybersecurity
 
@@ -190,4 +190,4 @@ The first thing we should do is to contain the breach. This means that **if we a
 
 Executing the incident management plan is the most important thing we should keep in mind as an entry level analyst.
 
-## CISSP Domains
+## CISSP Security Domains
