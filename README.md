@@ -6,6 +6,7 @@
   - [Contents](#contents)
   - [Cybersecurity](#cybersecurity)
     - [Common Terms](#common-terms)
+  - [Historic Cybersecurity Attacks](#historic-cybersecurity-attacks)
 
 ## Cybersecurity
 
@@ -43,3 +44,5 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
 > PII and SPII are major targets for actors engaging in identity theft (the act of stealing personal information to commit fraud while impersonating a victim; its primary objective is financial gain).
 
 More information of cybersecurity terms is available at the [NIST Glossary](https://csrc.nist.gov/glossary).
+
+## Historic Cybersecurity Attacks
