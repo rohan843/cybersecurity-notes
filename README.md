@@ -112,4 +112,4 @@ Its common now for employees to recieve training in how to identify social engin
 
 ### Equifax Breach
 
-
+In 2017, attackers successfully infiltrated the credit reporting agency, Equifax. This was one of the **largest known data breaches of sensitive information**. During the breach, over 143 million customer records were stolen, and the breach affected approximately 40% of all Americans.
