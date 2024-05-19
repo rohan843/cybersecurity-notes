@@ -115,3 +115,5 @@ Its common now for employees to recieve training in how to identify social engin
 In 2017, attackers successfully infiltrated the credit reporting agency, Equifax. This was one of the **largest known data breaches of sensitive information**. During the breach, over 143 million customer records (that included PII) were stolen, and the breach affected approximately 40% of all Americans.
 
 The breach occurred due to multiple failures on Equifax's part. The company failed to take action to fix multiple known vulnerabilities in the months leading up to the data breach.
+
+The company had to pay over $575 million to resolve customer complaints and cover required fines.
