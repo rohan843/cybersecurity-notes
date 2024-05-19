@@ -10,6 +10,7 @@
     - [Brain Virus](#brain-virus)
     - [Morris Worm](#morris-worm)
   - [Modern Cybersecurity Attacks](#modern-cybersecurity-attacks)
+    - [LoveLetter Attack](#loveletter-attack)
 
 ## Cybersecurity
 
@@ -87,3 +88,7 @@ This attack cost millions of dollars in damages due to business disruptions and 
 With the spread of the Internet, lots of computers are accessible without the need for physical access to hardware devices or data transfer devices.
 
 We will examine 2 notable attacks that relied on the Internet: the **LoveLetter Attack** and the **Equifax Breach**.
+
+### LoveLetter Attack
+
+In the year 2000, Onel de Guzman created the LoveLetter malware to steal Internet login credentials.
