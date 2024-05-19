@@ -8,6 +8,7 @@
     - [Common Terms](#common-terms)
   - [Historic Cybersecurity Attacks](#historic-cybersecurity-attacks)
     - [Brain Virus](#brain-virus)
+    - [Morris Worm](#morris-worm)
 
 ## Cybersecurity
 
@@ -67,3 +68,7 @@ Each time someone used an infected disk, the virus moved to a new computer. Thus
 While the intention behind the virus was not to cause harm to data and software, it slowed productivity and significantly affected business operations.
 
 This virus presents an important event in the field of software, demonstrating the need for security and maintaining productivity.
+
+### Morris Worm
+
+Developed by Robert Morris in 1988, its original objective was to assess the size of the Internet. The program would crawl the web, and install itself onto other computers to tally the number of computers that were connected to the Internet.
