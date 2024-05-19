@@ -14,6 +14,7 @@
     - [Equifax Breach](#equifax-breach)
   - [Common Cybersecurity Attacks](#common-cybersecurity-attacks)
     - [Phishing](#phishing)
+    - [Malware](#malware)
 
 ## Cybersecurity
 
@@ -135,3 +136,7 @@ Some common types of these attacks are:
 3. **Whaling**: It is a form of spear phishing, where threat actors target company executives to gain access to sensitive data.
 4. **Vishing**: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
 5. **Smishing**: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+
+### Malware
+
+Malware is software designed to harm devices or networks. There are many types of malware. The primary purpose of malware is to obtain money, or in some cases, an intelligence advantage that can be used against a person, an organization, or a territory.
