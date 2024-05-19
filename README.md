@@ -15,6 +15,7 @@
   - [Common Cybersecurity Attacks](#common-cybersecurity-attacks)
     - [Phishing](#phishing)
     - [Malware](#malware)
+    - [Social Engineering](#social-engineering)
 
 ## Cybersecurity
 
@@ -150,3 +151,7 @@ Some common types of malware are:
 2. **Worms**: Malware that can _duplicate and spread itself across systems on its own_. Unlike a virus, a worm does not need to be downloaded by the user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
 3. **Ransomware**: A malicious attack, where the threat actors _encrypt_ an organization's data and demand payment to restore access.
 4. **Spyware**: A malware that is used to gather and sell information without consent. Spyware can be used to access devices. This allows threat actors to collect personal data such as private emails, texts, voice and image recordings, and locations.
+
+### Social Engineering
+
+Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. **Human error** is usually a result of trusting someone without question. _It's the mission of a threat actor, acting as a social engineer, to create an environment of **false trust** and lies to exploit as many people as possible._
