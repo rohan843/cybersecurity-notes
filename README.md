@@ -11,6 +11,7 @@
     - [Morris Worm](#morris-worm)
   - [Modern Cybersecurity Attacks](#modern-cybersecurity-attacks)
     - [LoveLetter Attack](#loveletter-attack)
+    - [Equifax Breach](#equifax-breach)
 
 ## Cybersecurity
 
@@ -108,3 +109,7 @@ This attack showed attackers the power of social engineering. The number of soci
 Its common now for employees to recieve training in how to identify social engineering attacks, specifically, phishing.
 
 **Phishing**: The use of digital communications to trick people into revealing sensitive data or deploy malicious software.
+
+### Equifax Breach
+
+
