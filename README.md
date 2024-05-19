@@ -16,6 +16,7 @@
     - [Phishing](#phishing)
     - [Malware](#malware)
     - [Social Engineering](#social-engineering)
+      - [Social Engineering Principles](#social-engineering-principles)
 
 ## Cybersecurity
 
@@ -162,3 +163,5 @@ Some of the most common social engineering attacks today are:
 2. **Watering hole attack**: A threat actor attacks a website frequently visited by a specific group of users.
 3. **USB baiting**: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly affect a network.
 4. **Physical social engineering**: A threat actor impersonates an employee, customer or vendor to obtain unauthorized access to a physical location.
+
+#### Social Engineering Principles
