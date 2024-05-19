@@ -59,3 +59,7 @@ We will examine 2 early malware attacks: **Brain virus** and **Morris worm**. Th
 ### Brain Virus
 
 It was created by the Alvi brothers in 1986, with the intention to track illegal copies of medical software and prevent pirated licenses. However, the actual effect of the virus was unexpected.
+
+Once a person used a pirated copy of the software, the virus infected that computer. _Any_ disk that was connected to that computer also got infected.
+
+Each time someone used an infected disk, the virus moved to a new computer. Thus undetected, the virus spread globally within a couple of months.
