@@ -104,3 +104,7 @@ This attack is also an example of social engineering.
 **Social Engineering**: A manipulation technique that exploits human error to gain private information, access or valuables.
 
 This attack showed attackers the power of social engineering. The number of social engineering attacks increases with every new social media.
+
+Its common now for employees to recieve training in how to identify social engineering attacks, specifically, phishing.
+
+**Phishing**: The use of digital communications to trick people into revealing sensitive data or deploy malicious software.
