@@ -65,3 +65,5 @@ Once a person used a pirated copy of the software, the virus infected that compu
 Each time someone used an infected disk, the virus moved to a new computer. Thus undetected, the virus spread globally within a couple of months.
 
 While the intention behind the virus was not to cause harm to data and software, it slowed productivity and significantly affected business operations.
+
+This virus presents an important event in the field of software, demonstrating the need for security and maintaining productivity.
