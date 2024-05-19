@@ -63,3 +63,5 @@ It was created by the Alvi brothers in 1986, with the intention to track illegal
 Once a person used a pirated copy of the software, the virus infected that computer. _Any_ disk that was connected to that computer also got infected.
 
 Each time someone used an infected disk, the virus moved to a new computer. Thus undetected, the virus spread globally within a couple of months.
+
+While the intention behind the virus was not to cause harm to data and software, it slowed productivity and significantly affected business operations.
