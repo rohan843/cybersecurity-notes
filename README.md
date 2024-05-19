@@ -186,3 +186,5 @@ If we are on the security team and responding to a data breach incident, we have
 The first thing we should do is to contain the breach. This means that **if we are still losing data, we should do everything in our power to stop the loss.** This may involve _shutting down the server, shutting down the data center or the data center communications_. Stopping the data loss is the first priority.
 
 > First stop the breach, and then investigate the breach.
+
+Executing the incident management plan is the most important thing we should keep in mind as an entry level analyst.
