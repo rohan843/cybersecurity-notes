@@ -117,3 +117,5 @@ In 2017, attackers successfully infiltrated the credit reporting agency, Equifax
 The breach occurred due to multiple failures on Equifax's part. The company failed to take action to fix multiple known vulnerabilities in the months leading up to the data breach.
 
 The company had to pay over $575 million to resolve customer complaints and cover required fines.
+
+This large fine alerted other companies to take measures to prevent such a breach on their systems.
