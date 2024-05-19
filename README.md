@@ -184,3 +184,5 @@ Reasons why social engineering attacks are so effective include:
 If we are on the security team and responding to a data breach incident, we have to remain calm and composed. Others in the "room" may be upset and worried, but we have to be reassuring and remain calm.
 
 The first thing we should do is to contain the breach. This means that **if we are still losing data, we do everything in our power to stop the loss.** This may involve _shutting down the server, shutting down the data center or the data center communications_. Stopping the data loss is the first priority.
+
+> First stop the breach, and then investigate the breach.
