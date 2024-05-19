@@ -202,7 +202,7 @@ The domains are:
 2. **Asset Security**: It secures digital and physical assets. It's also related to the storage, maintenence, retention and destruction of data. For e.g., ensuring older equipment is properly destroyed, including any kind of sensitive information.
 3. **Security Architecture and Engineering**: It optimizes data security by ensuring effective tools, systems, and processes are in place. For e.g., setting up a firewall.
 4. **Communications and Network Security**: Manage and secure physical networks and wireless communications. For e.g., analysing user behaviour within the organization for suspicious activity or unsecured connections.
-5. **Identity and Access Management**: It keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications. This includes validating employees' identities and documenting their access roles.
+5. **Identity and Access Management**: It keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications. This includes validating employees' identities and documenting their access roles. For e.g., setting up employees' key card access to buildings.
 6. **Security Assessment and Testing**:
 7. **Security Operations**:
 8. **Software Development Security**:
