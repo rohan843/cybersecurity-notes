@@ -172,3 +172,8 @@ Reasons why social engineering attacks are so effective include:
 
 - **Authority**: Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures.
 - **Intimidation**: Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they are told.
+- **Consensus/Social Proof**: Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past.
+- **Scarcity**: A tactic used to imply that goods or services are in limited supply.
+- **Familiarity**: Threat actors establish a fake emotional connection with users that can be exploited.
+- **Trust**: Threat actors establish an emotional relationship with users that can be exploited _over time_. They use this relationship to develop trust and gain personal information.
+- **Urgency**: A threat actor persuades others to respond quickly and without questioning.
