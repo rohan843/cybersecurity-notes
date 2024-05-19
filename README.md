@@ -132,3 +132,5 @@ Some common types of these attacks are:
 
 1. **Business Email Compromise (BEC)**: A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information in order to obtain a financial advantage.
 2. **Spear Phishing**: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+3. **Whaling**: It is a form of spear phishing, where threat actors target company executives to gain access to sensitive data.
+4. **Vishing**: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
