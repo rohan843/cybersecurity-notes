@@ -196,4 +196,13 @@ There are 8 security domains defined by CISSP to assist and organize the work of
 
 Gaps in any of these can harm an organization.
 
-The domains are: **Security and Risk Management**, **Asset Security**, **Security Architecture and Engineering**, **Communications and Network Security**, **Identity and Access Management**, **Security Assessment and Testing**, **Security Operations**, **Software Development Security**.
+The domains are:
+
+1. **Security and Risk Management**: It defines security goals and objectives, risk mitigation, compliance, business continuity and the law.
+2. **Asset Security**:
+3. **Security Architecture and Engineering**:
+4. **Communications and Network Security**:
+5. **Identity and Access Management**:
+6. **Security Assessment and Testing**:
+7. **Security Operations**:
+8. **Software Development Security**:
