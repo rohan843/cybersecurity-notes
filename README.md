@@ -83,3 +83,5 @@ This attack cost millions of dollars in damages due to business disruptions and 
 > After the Morris worm, **Computer Emergency Response Teams** (CERTs) were established to respond to computer security incidents. These continue to exist today.
 
 ## Modern Cybersecurity Attacks
+
+With the spread of the Internet, lots of computers are accessible without the need for physical access to hardware devices or data transfer devices.
