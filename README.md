@@ -192,7 +192,7 @@ Executing the incident management plan is the most important thing we should kee
 
 ## CISSP Security Domains
 
-There are 8 security domains defined by CISSP to assist and organize the work of security professionals.
+There are 8 security domains defined by CISSP to assist and organize the work of security professionals. **Security roles may focus on one domain or include several domains**.
 
 Gaps in any of these can harm an organization.
 
