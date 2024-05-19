@@ -78,3 +78,5 @@ However, the worm failed to keep track of the computers it had already compromiz
 About 6000 computers were affected, representing _10%_ of the Internet at the time.
 
 This attack cost millions of dollars in damages due to business disruptions and the efforts required to remove the worm.
+
+> After the Morris worm, **Computer Emergency Response Teams** (CERTs) were established to respond to computer security incidents. These continue to exist today.
