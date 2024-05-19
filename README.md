@@ -98,3 +98,7 @@ Victims recieved an email with the subject line `I Love You`, and an attachment 
 Recipients would think that they are recieving an email from a friend, but it would actually be malware.
 
 This malware ended up affecting **45 million computers** globally, and is believed to have caused over **$10 billion** in damages.
+
+This attack is also an example of social engineering.
+
+**Social Engineering**: A manipulation technique that exploits human error to gain private information, access or valuables.
