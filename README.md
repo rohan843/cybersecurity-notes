@@ -165,3 +165,10 @@ Some of the most common social engineering attacks today are:
 4. **Physical social engineering**: A threat actor impersonates an employee, customer or vendor to obtain unauthorized access to a physical location.
 
 #### Social Engineering Principles
+
+Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data.
+
+Reasons why social engineering attacks are so effective include:
+
+- **Authority**: Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures.
+- **Intimidation**: Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they are told.
