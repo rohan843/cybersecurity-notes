@@ -7,6 +7,7 @@
   - [Cybersecurity](#cybersecurity)
     - [Common Terms](#common-terms)
   - [Historic Cybersecurity Attacks](#historic-cybersecurity-attacks)
+    - [Brain Virus](#brain-virus)
 
 ## Cybersecurity
 
@@ -54,3 +55,7 @@ Often, attackers use modifications of past attacks, and therefore understanding 
 **Malware**: This is any software designed to harm devices or networks. Viruses are often refered to as malware, but malware includes many other kinds of software as well.
 
 We will examine 2 early malware attacks: **Brain virus** and **Morris worm**. These were developed to accomplish specific tasks, but their developers underestimated the amount of damage and the number of infected computers these would cause.
+
+### Brain Virus
+
+It was created by the Alvi brothers in 1986, with the intention to track illegal copies of medical software and prevent pirated licenses. However, the actual effect of the virus was unexpected.
