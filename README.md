@@ -199,7 +199,7 @@ Gaps in any of these can harm an organization.
 The domains are:
 
 1. **Security and Risk Management**: It defines security goals and objectives, risk mitigation, compliance, business continuity and the law. For e.g., updating company policies about some PII storage as the laws change.
-2. **Asset Security**: It secures digital and physical assets. It's also related to the storage, maintenence, retention and destruction of data.
+2. **Asset Security**: It secures digital and physical assets. It's also related to the storage, maintenence, retention and destruction of data. For e.g., ensuring older equipment is properly destroyed, including any kind of sensitive information.
 3. **Security Architecture and Engineering**:
 4. **Communications and Network Security**:
 5. **Identity and Access Management**:
