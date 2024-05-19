@@ -191,3 +191,5 @@ The first thing we should do is to contain the breach. This means that **if we a
 Executing the incident management plan is the most important thing we should keep in mind as an entry level analyst.
 
 ## CISSP Security Domains
+
+There are 8 security domains defined by CISSP to assist the work of security professionals.
