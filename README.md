@@ -72,3 +72,7 @@ This virus presents an important event in the field of software, demonstrating t
 ### Morris Worm
 
 Developed by Robert Morris in 1988, its original objective was to assess the size of the Internet. The program would crawl the web, and install itself onto other computers to tally the number of computers that were connected to the Internet.
+
+However, the worm failed to keep track of the computers it had already compromized, and continued to re-install itself, **untill the computers ran out of memory and crashed.**
+
+About 6000 computers were affected, representing _10%_ of the Internet at the time.
