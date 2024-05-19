@@ -48,3 +48,5 @@ More information of cybersecurity terms is available at the [NIST Glossary](http
 ## Historic Cybersecurity Attacks
 
 Often, attackers use modifications of past attacks, and therefore understanding the past attacks can help create a secure system and organization.
+
+**Computer Virus**: Malicious code written to interfere with computer operations and cause damage to data and software. A virus often attaches itself to programs or data on a computer, then spreads and infects one or more computers in a network.
