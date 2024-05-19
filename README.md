@@ -201,7 +201,7 @@ The domains are:
 1. **Security and Risk Management**: It defines security goals and objectives, risk mitigation, compliance, business continuity and the law. For e.g., updating company policies about some PII storage as the laws change.
 2. **Asset Security**: It secures digital and physical assets. It's also related to the storage, maintenence, retention and destruction of data. For e.g., ensuring older equipment is properly destroyed, including any kind of sensitive information.
 3. **Security Architecture and Engineering**: It optimizes data security by ensuring effective tools, systems, and processes are in place. For e.g., setting up a firewall.
-4. **Communications and Network Security**:
+4. **Communications and Network Security**: Manage and secure physical networks and wireless communications.
 5. **Identity and Access Management**:
 6. **Security Assessment and Testing**:
 7. **Security Operations**:
