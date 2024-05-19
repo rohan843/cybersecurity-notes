@@ -85,3 +85,5 @@ This attack cost millions of dollars in damages due to business disruptions and 
 ## Modern Cybersecurity Attacks
 
 With the spread of the Internet, lots of computers are accessible without the need for physical access to hardware devices or data transfer devices.
+
+We will examine 2 notable attacks that relied on the Internet: the **LoveLetter Attack** and the **Equifax Breach**.
