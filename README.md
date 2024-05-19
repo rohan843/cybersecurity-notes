@@ -46,3 +46,5 @@ Upholding security reduces expenses because of downtime, breaches and fines. It 
 More information of cybersecurity terms is available at the [NIST Glossary](https://csrc.nist.gov/glossary).
 
 ## Historic Cybersecurity Attacks
+
+Often, attackers use modifications of past attacks, and therefore understanding the past attacks can help create a secure system and organization.
