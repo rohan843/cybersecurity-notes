@@ -91,4 +91,4 @@ We will examine 2 notable attacks that relied on the Internet: the **LoveLetter 
 
 ### LoveLetter Attack
 
-In the year 2000, Onel de Guzman created the LoveLetter malware to steal Internet login credentials.
+In the year 2000, Onel de Guzman created the LoveLetter malware to steal Internet login credentials. This attack spread rapidly. The people who weren't yet suspicious of unsolicited emails were especially affected.
