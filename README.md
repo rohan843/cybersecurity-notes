@@ -147,4 +147,4 @@ Some common types of malware are:
    1. A virus **needs to be _initiated_ by a user** (i.e., _this user is the threat actor here, not necessarily the virus developer_), who transmits the virus via a malicious attachment or file download.
    2. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system.
    3. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
-2. **Worms**: Malware that can _duplicate and spread itself across systems on its own_. Unlike a virus, a worm does not need to be downloaded by the user. Instead, it self-replicates and spreads from an already infected computer to other computers on the same network.
+2. **Worms**: Malware that can _duplicate and spread itself across systems on its own_. Unlike a virus, a worm does not need to be downloaded by the user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
