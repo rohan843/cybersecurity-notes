@@ -17,6 +17,7 @@
     - [Malware](#malware)
     - [Social Engineering](#social-engineering)
       - [Social Engineering Principles](#social-engineering-principles)
+    - [Data Breaches: Maintain your cool](#data-breaches-maintain-your-cool)
 
 ## Cybersecurity
 
@@ -177,3 +178,9 @@ Reasons why social engineering attacks are so effective include:
 - **Familiarity**: Threat actors establish a fake emotional connection with users that can be exploited.
 - **Trust**: Threat actors establish an emotional relationship with users that can be exploited _over time_. They use this relationship to develop trust and gain personal information.
 - **Urgency**: A threat actor persuades others to respond quickly and without questioning.
+
+### Data Breaches: Maintain your cool
+
+If we are on the security team and responding to a data breach incident, we have to remain calm and composed. Others in the "room" may be upset and worried, but we have to be reassuring and remain calm.
+
+
