@@ -155,3 +155,10 @@ Some common types of malware are:
 ### Social Engineering
 
 Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. **Human error** is usually a result of trusting someone without question. _It's the mission of a threat actor, acting as a social engineer, to create an environment of **false trust** and lies to exploit as many people as possible._
+
+Some of the most common social engineering attacks today are:
+
+1. **Social media phishing**: A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+2. **Watering hole attack**: A threat actor attacks a website frequently visited by a specific group of users.
+3. **USB baiting**: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly affect a network.
+4. **Physical social engineering**: A threat actor impersonates an employee, customer or vendor to obtain unauthorized access to a physical location.
