@@ -140,3 +140,11 @@ Some common types of these attacks are:
 ### Malware
 
 Malware is software designed to harm devices or networks. There are many types of malware. The primary purpose of malware is to obtain money, or in some cases, an intelligence advantage that can be used against a person, an organization, or a territory.
+
+Some common types of malware are:
+
+1. **Viruses**: Malicious code written to interfere with computer operations and cause damage to data and software.
+   1. A virus **needs to be initiated by a user** (i.e., _this user is the threat actor here, not necessarily the virus developer_), who transmits the virus via a malicious attachment or file download.
+   2. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system.
+   3. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
+2. 
