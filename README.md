@@ -76,3 +76,5 @@ Developed by Robert Morris in 1988, its original objective was to assess the siz
 However, the worm failed to keep track of the computers it had already compromized, and continued to re-install itself, **untill the computers ran out of memory and crashed.**
 
 About 6000 computers were affected, representing _10%_ of the Internet at the time.
+
+This attack cost millions of dollars in damages due to business disruptions and the efforts required to remove the worm.
