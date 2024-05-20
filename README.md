@@ -18,7 +18,7 @@
     - [Social Engineering](#social-engineering)
       - [Social Engineering Principles](#social-engineering-principles)
     - [Data Breaches: Maintain your cool](#data-breaches-maintain-your-cool)
-  - [CISSP Security Domains](#cissp-security-domains)
+  - [CISSP (Certified Information Systems Security Professional) Security Domains](#cissp-certified-information-systems-security-professional-security-domains)
   - [Determining the Type of Attack](#determining-the-type-of-attack)
 
 ## Cybersecurity
@@ -191,7 +191,7 @@ The first thing we should do is to contain the breach. This means that **if we a
 
 Executing the incident management plan is the most important thing we should keep in mind as an entry level analyst.
 
-## CISSP Security Domains
+## CISSP (Certified Information Systems Security Professional) Security Domains
 
 There are 8 security domains defined by CISSP to assist and organize the work of security professionals. **Security roles may focus on one domain or include several domains**.
 
