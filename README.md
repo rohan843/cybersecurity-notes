@@ -24,6 +24,7 @@
     - [Social Engineering Attack](#social-engineering-attack)
     - [Physical Attack](#physical-attack)
     - [Adversarial Artificial Intelligence](#adversarial-artificial-intelligence)
+    - [Supply Chain Attack](#supply-chain-attack)
 
 ## Cybersecurity
 
@@ -237,3 +238,11 @@ These attacks fall under the asset security domain.
 Adversarial AI uses AI and ML techniques (described [here](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf)) to conduct attacks more efficiently.
 
 Adversarial AI falls under both the communication and network security and the identity and access management domains.
+
+### Supply Chain Attack
+
+These attacks target systems, applications, hardware and/or software to locate a vulnerability where malware can be deployed.
+
+These attacks cause a breach at any point in the supply chain. They are costly as they can affect multiple organizations and the individuals who work for them.
+
+They fall under several CISSP domains, including but not limited to security and risk management, security architecture and engineering, security operations.
