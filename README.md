@@ -30,6 +30,7 @@
     - [Threat Actor Types](#threat-actor-types)
       - [Advanced Persistent Threats](#advanced-persistent-threats)
       - [Insider Threat](#insider-threat)
+      - [Hacktivists](#hacktivists)
 
 ## Cybersecurity
 
@@ -284,4 +285,15 @@ Their intentions and motivations can include:
 1. Sabotage
 2. Corruption
 3. Espionage
-4. Unauthorized data access or leaks 
+4. Unauthorized data access or leaks
+
+#### Hacktivists
+
+These are threat actors driven by political agenda.
+
+Their goals may include:
+
+1. Demonstrations
+2. Propaganda
+3. Social change campaigns
+4. Fame
