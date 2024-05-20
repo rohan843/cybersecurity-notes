@@ -21,6 +21,7 @@
   - [CISSP (Certified Information Systems Security Professional) Security Domains](#cissp-certified-information-systems-security-professional-security-domains)
   - [Determining the Type of Attack](#determining-the-type-of-attack)
     - [Password Attack](#password-attack)
+    - [Social Engineering Attack](#social-engineering-attack)
 
 ## Cybersecurity
 
@@ -216,3 +217,9 @@ The domains are:
 These attacks try to access password-secured devices, systems, networks or data. For e.g., brute force attacks and rainbow table attacks.
 
 These fall under the communication and network security domain.
+
+### Social Engineering Attack
+
+Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. For e.g., phishing, smishing, vishing, spear phishing, whaling, social media phishing, business Email Compromise (BEC), watering hole attack, usb (Universal Serial Bus) baiting, physical social engineering.
+
+These fall under the security and risk management domain.
