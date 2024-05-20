@@ -228,3 +228,5 @@ These fall under the security and risk management domain.
 ### Physical Attack
 
 A physical attack is a security incident that affects not only digital but also physical environments where the incident is deployed. For e.g., malicious USB cable, malicious flash drive, and card cloning and skimming.
+
+These attacks fall under the asset security domain.
