@@ -312,3 +312,13 @@ There are 3 main **categories of hackers**:
 3. **Unauthorized Hackers**: [aka Unethical Hackers] They are malicious threat actors who do not follow or respect the law. Their goal is to collect and sell confidential data for financial gain.
 
 > There are multiple hacker types that fall into one or more of these categories.
+
+New and unskilled actors have various goals including:
+
+1. To learn and enhance their hacking skills.
+2. To seek revenge.
+3. To exploit security weaknesses by using existing malware, programming scripts and other tactics.
+
+Other types of hackers are not motivated by any particular agenda other than completing the job they were contracted to do. These types of hackers can be considered unethical or ethical hackers. They have been known to work on both illegal and legal tasks for pay.
+
+There are also hackers who consider themselves vigilantes. Their main goal is to protect the world from unethical hackers.
