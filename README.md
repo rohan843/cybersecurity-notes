@@ -26,6 +26,7 @@
     - [Adversarial Artificial Intelligence](#adversarial-artificial-intelligence)
     - [Supply Chain Attack](#supply-chain-attack)
     - [Cryptographic Attack](#cryptographic-attack)
+  - [Understanding Attackers](#understanding-attackers)
 
 ## Cybersecurity
 
@@ -253,3 +254,5 @@ They fall under several CISSP domains, including but not limited to security and
 These attacks affect secure forms of communications between a sender and an intended recipient. For e.g., birthday attacks, collision attacks and downgrade attacks.
 
 They fall under the communication and network security domains.
+
+## Understanding Attackers
