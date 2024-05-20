@@ -27,6 +27,8 @@
     - [Supply Chain Attack](#supply-chain-attack)
     - [Cryptographic Attack](#cryptographic-attack)
   - [Understanding Attackers](#understanding-attackers)
+    - [Threat Actor Types](#threat-actor-types)
+      - [Advanced Persistent Threats](#advanced-persistent-threats)
 
 ## Cybersecurity
 
@@ -258,3 +260,7 @@ They fall under the communication and network security domains.
 ## Understanding Attackers
 
 A **threat actor** is any person or group that presents a security risk.
+
+### Threat Actor Types
+
+#### Advanced Persistent Threats
