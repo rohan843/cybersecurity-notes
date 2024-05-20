@@ -20,6 +20,7 @@
     - [Data Breaches: Maintain your cool](#data-breaches-maintain-your-cool)
   - [CISSP (Certified Information Systems Security Professional) Security Domains](#cissp-certified-information-systems-security-professional-security-domains)
   - [Determining the Type of Attack](#determining-the-type-of-attack)
+    - [Password Attack](#password-attack)
 
 ## Cybersecurity
 
@@ -209,3 +210,9 @@ The domains are:
 8. **Software Development Security**: Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services. For e.g., working with software teams to ensure that secure coding practices are involved in the SDLC.
 
 ## Determining the Type of Attack
+
+### Password Attack
+
+These attacks try to access password-secured devices, systems, networks or data. For e.g., brute force attacks and rainbow table attacks.
+
+These fall under the communication and network security domain.
