@@ -25,6 +25,7 @@
     - [Physical Attack](#physical-attack)
     - [Adversarial Artificial Intelligence](#adversarial-artificial-intelligence)
     - [Supply Chain Attack](#supply-chain-attack)
+    - [Cryptographic Attack](#cryptographic-attack)
 
 ## Cybersecurity
 
@@ -246,3 +247,9 @@ These attacks target systems, applications, hardware and/or software to locate a
 These attacks cause a breach at any point in the supply chain. They are costly as they can affect multiple organizations and the individuals who work for them.
 
 They fall under several CISSP domains, including but not limited to security and risk management, security architecture and engineering, security operations.
+
+### Cryptographic Attack
+
+These attacks affect secure forms of communications between a sender and an intended recipient. For e.g., birthday attacks, collision attacks and downgrade attacks.
+
+They fall under the communication and network security domains.
