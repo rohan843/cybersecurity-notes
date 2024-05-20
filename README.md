@@ -29,6 +29,7 @@
   - [Understanding Attackers](#understanding-attackers)
     - [Threat Actor Types](#threat-actor-types)
       - [Advanced Persistent Threats](#advanced-persistent-threats)
+      - [Insider Threat](#insider-threat)
 
 ## Cybersecurity
 
@@ -273,3 +274,14 @@ Their intentions and motivations can include:
 
 1. Damaging critical infrastructure such as the power grid and natural resources.
 2. Gaining access to intellectual property such as trade secrets or patents.
+
+#### Insider Threat
+
+Insider threats abuse their authorized access to obtain data that may harm an organization.
+
+Their intentions and motivations can include:
+
+1. Sabotage
+2. Corruption
+3. Espionage
+4. Unauthorized data access or leaks 
