@@ -264,3 +264,12 @@ A **threat actor** is any person or group that presents a security risk.
 ### Threat Actor Types
 
 #### Advanced Persistent Threats
+
+Advanced persistent threats (APTs) have significant expertise accessing an organization's network without authorization.
+
+They tend to **research their targets** (which include government entities and large corporations) in advance and can **remain undetected** for an extended period of time.
+
+Their intentions and motivations can include:
+
+1. Damaging critical infrastructure such as the power grid and natural resources.
+2. Gaining access to intellectual property such as trade secrets or patents.
