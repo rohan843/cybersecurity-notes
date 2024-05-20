@@ -256,3 +256,5 @@ These attacks affect secure forms of communications between a sender and an inte
 They fall under the communication and network security domains.
 
 ## Understanding Attackers
+
+A **threat actor** is any person or group that presents a security risk.
