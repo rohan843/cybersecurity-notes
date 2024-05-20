@@ -31,6 +31,7 @@
       - [Advanced Persistent Threats](#advanced-persistent-threats)
       - [Insider Threat](#insider-threat)
       - [Hacktivists](#hacktivists)
+    - [Hacker Types](#hacker-types)
 
 ## Cybersecurity
 
@@ -297,3 +298,9 @@ Their goals may include:
 2. Propaganda
 3. Social change campaigns
 4. Fame
+
+### Hacker Types
+
+**Hacker**: Any person who uses computers to gain access to computer systems, networks or data.
+
+Hackers can be beginner or advanced technology professionals who use their skills for a variety of reasons.
