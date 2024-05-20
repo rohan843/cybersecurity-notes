@@ -23,6 +23,7 @@
     - [Password Attack](#password-attack)
     - [Social Engineering Attack](#social-engineering-attack)
     - [Physical Attack](#physical-attack)
+    - [Adversarial Artificial Intelligence](#adversarial-artificial-intelligence)
 
 ## Cybersecurity
 
@@ -230,3 +231,9 @@ These fall under the security and risk management domain.
 A physical attack is a security incident that affects not only digital but also physical environments where the incident is deployed. For e.g., malicious USB cable, malicious flash drive, and card cloning and skimming.
 
 These attacks fall under the asset security domain.
+
+### Adversarial Artificial Intelligence
+
+Adversarial AI uses AI and ML techniques (described [here](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf)) to conduct attacks more efficiently.
+
+Adversarial AI falls under both the communication and network security and the identity and access management domains.
