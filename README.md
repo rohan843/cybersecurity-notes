@@ -22,6 +22,7 @@
   - [Determining the Type of Attack](#determining-the-type-of-attack)
     - [Password Attack](#password-attack)
     - [Social Engineering Attack](#social-engineering-attack)
+    - [Physical Attack](#physical-attack)
 
 ## Cybersecurity
 
@@ -223,3 +224,7 @@ These fall under the communication and network security domain.
 Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. For e.g., phishing, smishing, vishing, spear phishing, whaling, social media phishing, business Email Compromise (BEC), watering hole attack, usb (Universal Serial Bus) baiting, physical social engineering.
 
 These fall under the security and risk management domain.
+
+### Physical Attack
+
+A physical attack is a security incident that affects not only digital but also physical environments where the incident is deployed. For e.g., malicious USB cable, malicious flash drive, and card cloning and skimming.
