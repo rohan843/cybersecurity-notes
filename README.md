@@ -339,3 +339,8 @@ The following are the purposes of security frameworks:
 3. Identifying security weaknesses
 4. Managing organizational risks
 5. Aligning security with business goals
+
+Frameworks have **4 core components**:
+
+1. **Identifying and documenting security goals** (for e.g., an organization may have a goal to aligh with the E.U.'s GDPR. Consequently, a security analyst may be asked to identify and document areas where the organization is out of compliance with GDPR.)
+2. **Setting guidelines to acheive security goals** (for e.g., when implementing guidelines to acheive GDPR compliance, an organization may have to develop new policies on how to handle data requests from individual users.)
