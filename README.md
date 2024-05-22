@@ -347,4 +347,4 @@ Frameworks have **4 core components**:
 3. **Implementing strong security processes** (for e.g., in case of GDPR, a security analyst working for a social media company may help design procedures to ensure the organization complies with verified user data requests. Such a request could be when a user attempts to update or delete their profile information.)
 4. **Monitoring and communicating results** (for e.g., we may monitor our organization's internal network and report a potential security issue affecting GDPR to a manager or to a regulatory compliance officer.)
 
-**Security controls**: They are safeguards designed to reduce specific security risks.
+**Security controls**: They are safeguards designed to reduce specific security risks. For e.g., a guideline requiring all employees to complete a privacy training to reduce the risk of data breaches.
