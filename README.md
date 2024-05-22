@@ -328,7 +328,7 @@ There are also hackers who consider themselves vigilantes. Their main goal is to
 
 To secure our organization from threats, we start with identifying critical assets and risks. Then, we implement the necessary frameworks and controls.
 
-**Security Frameworks**: These are guidelines used for building plans to help mitigate risk and threats to data and privacy. They essentially provide a structured approach to implement a security lifecycle.
+**Security Frameworks**: These are guidelines used for building plans to help mitigate risk and threats to data and privacy. They essentially provide a structured approach to document and implement a security lifecycle.
 
 **Security Lifecycle**: A constantly evolving set of policies and standards that define how an organization manages risks, follows established guidelines, and meets regulatory compliance and laws.
 
