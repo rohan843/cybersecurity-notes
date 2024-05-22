@@ -325,3 +325,7 @@ Other types of hackers are not motivated by any particular agenda other than com
 There are also hackers who consider themselves vigilantes. Their main goal is to protect the world from unethical hackers.
 
 ## Frameworks and Controls
+
+To secure our organization from threats, we start with identifying critical assets and risks. Then, we implement the necessary frameworks and controls.
+
+**Security Frameworks**: These are guidelines used for building plans to help mitigate risk and threats to data and privacy.
