@@ -331,3 +331,11 @@ To secure our organization from threats, we start with identifying critical asse
 **Security Frameworks**: These are guidelines used for building plans to help mitigate risk and threats to data and privacy. They essentially provide a structured approach to implement a security lifecycle.
 
 **Security Lifecycle**: A constantly evolving set of policies and standards that define how an organization manages risks, follows established guidelines, and meets regulatory compliance and laws.
+
+The following are the purposes of security frameworks:
+
+1. Protecting PII
+2. Securing financial information
+3. Identifying security weaknesses
+4. Managing organizational risks
+5. Aligning security with business goals
