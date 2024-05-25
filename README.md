@@ -364,3 +364,5 @@ Frameworks have **4 core components**:
 **Asset**: An item percieved as having value to an organization. The value is generally determined by the cost associated with the asset.
 
 ## Cybersecurity Framework: NIST CSF
+
+It is a voluntary framework that consists of standards, guidelines and best practices to manage cybersecurity risk.
