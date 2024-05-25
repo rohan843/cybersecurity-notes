@@ -353,3 +353,11 @@ Frameworks have **4 core components**:
 ## Secure Design
 
 **CIA Triad**: It is a foundational model that helps inform how organizations consider risk when setting up systems and security policies.
+
+***C*onfidentiality**: Only authorized users can access specific assets or data. For e.g., strict access controls.
+
+***I*ntegrity**: Data is correct, authentic and reliable. For e.g., encryption to protect data from tampering.
+
+***A*vailability**: Data is available to those who are authorized to access it.
+
+**Asset**: An item percieved as having value to an organization.
