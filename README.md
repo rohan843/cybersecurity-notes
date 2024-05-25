@@ -360,4 +360,4 @@ Frameworks have **4 core components**:
 
 ***A*vailability**: Data is available to those who are authorized to access it.
 
-**Asset**: An item percieved as having value to an organization.
+**Asset**: An item percieved as having value to an organization. The value is generally determined by the cost associated with the asset.
