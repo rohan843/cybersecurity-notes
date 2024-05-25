@@ -351,3 +351,5 @@ Frameworks have **4 core components**:
 **Security controls**: They are safeguards designed to reduce specific security risks. For e.g., a guideline requiring all employees to complete a privacy training to reduce the risk of data breaches.
 
 ## Secure Design
+
+**CIA Triad**: It is a foundational model that helps inform how organizations consider risk when setting up systems and security policies.
