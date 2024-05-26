@@ -364,6 +364,12 @@ Frameworks have **4 core components**:
 
 **Cybersecurity Framework: NIST CSF**: It is a voluntary framework that consists of standards, guidelines and best practices to manage cybersecurity risk.
 
-(NIST RMF (Risk Management Framework) is also similar.)
+Some other controls, frameworks, and compliance standards are:
+
+1. **NIST RMF (Risk Management Framework)**
+2. **The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)**
+   1. This is a _regulation_.
+   2. It applies to organizations that work with electricity or that are involved with the U.S. and North American power grid.
+   3. It defines some _Critical Infrastructure Protection (CIP) Reliability Standards_ the orgs must adhere to.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
