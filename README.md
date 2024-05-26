@@ -381,5 +381,9 @@ Some other controls, frameworks, and compliance standards are:
 5. **General Data Protection Regulation (GDPR)**
    1. It is a _European Union (E.U.) general data regulation_.
    2. It protects the processing of E.U. residents’ data and their right to privacy in and out of E.U. territory.
+6. **Payment Card Industry Data Security Standard (PCI DSS)**
+   1. It is an _international security standard_.
+   2. It ensures that ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment.
+   3. Its objective is to reduce credit card fraud.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
