@@ -394,5 +394,10 @@ Some other controls, frameworks, and compliance standards are:
 8. **International Organization for Standardization (ISO)**
    1. It is a _standards' organization_.
    2. It was created to establish international standards related to technology, manufacturing, and management across borders. It helps organizations improve their processes and procedures for staff retention, planning, waste, and services.
+9. **System and Organizations Controls (SOC type 1, SOC type 2)**
+   1. This is a _standard_.
+   2. It was developed by American Institute of Certified Public Accountants® (AICPA) auditing standards board.
+   3. SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels such as Associate, Supervisor, Manager, Executive, Vendor and Others.
+   4. SOC1 and SOC2 are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
