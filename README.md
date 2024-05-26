@@ -383,7 +383,7 @@ Some other controls, frameworks, and compliance standards are:
    2. It protects the processing of E.U. residents’ data and their right to privacy in and out of E.U. territory.
 6. **Payment Card Industry Data Security Standard (PCI DSS)**
    1. It is an _international security standard_.
-   2. It ensures that ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment.
+   2. It ensures that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment.
    3. Its objective is to reduce credit card fraud.
 7. **The Health Insurance Portability and Accountability Act (HIPAA)**
    1. It is a _U.S. federal law_.
