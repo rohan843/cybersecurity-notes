@@ -371,5 +371,8 @@ Some other controls, frameworks, and compliance standards are:
    1. This is a _regulation_.
    2. It applies to organizations that work with electricity or that are involved with the U.S. and North American power grid.
    3. It defines some _Critical Infrastructure Protection (CIP) Reliability Standards_ the orgs must adhere to.
+3. **The Federal Risk and Authorization Management Program (FedRAMP®)**
+   1. This is a _U.S. federal government program_.
+   2. It standardizes security assessment, authorization, monitoring, and handling of cloud services and product offerings to provide consistency across the government sector and third-party cloud providers.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
