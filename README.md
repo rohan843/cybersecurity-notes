@@ -385,5 +385,11 @@ Some other controls, frameworks, and compliance standards are:
    1. It is an _international security standard_.
    2. It ensures that ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment.
    3. Its objective is to reduce credit card fraud.
+7. **The Health Insurance Portability and Accountability Act (HIPAA)**
+   1. It is a _U.S. federal law_.
+   2. It prohibits patient information from being shared without their consent.
+   3. It has 3 rules: Privacy, Security and Breach notification.
+   4. **Protected Health Information (PHI)**: It relates to the past, present, or future physical or mental health or condition of an individual, whether it’s a plan of care or payments for care.
+   5. **Health Information Trust Alliance (HITRUST®)**: It is a security framework and assurance program that helps institutions meet HIPAA compliance.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
