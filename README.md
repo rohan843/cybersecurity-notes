@@ -374,5 +374,12 @@ Some other controls, frameworks, and compliance standards are:
 3. **The Federal Risk and Authorization Management Program (FedRAMP®)**
    1. This is a _U.S. federal government program_.
    2. It standardizes security assessment, authorization, monitoring, and handling of cloud services and product offerings to provide consistency across the government sector and third-party cloud providers.
+4. **Center for Internet Security (CIS®)**
+   1. This is a _nonprofit with multiple areas of emphasis_.
+   2. It _provides a set of controls_ that can be used to safeguard systems and networks against attacks. Its purpose is to help organizations establish a better plan of defense.
+   3. It also provides actionable controls that security professionals may follow if a security incident occurs.
+5. **General Data Protection Regulation (GDPR)**
+   1. It is a _European Union (E.U.) general data regulation_.
+   2. It protects the processing of E.U. residents’ data and their right to privacy in and out of E.U. territory.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
