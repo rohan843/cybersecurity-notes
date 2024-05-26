@@ -391,5 +391,8 @@ Some other controls, frameworks, and compliance standards are:
    3. It has 3 rules: Privacy, Security and Breach notification.
    4. **Protected Health Information (PHI)**: It relates to the past, present, or future physical or mental health or condition of an individual, whether it’s a plan of care or payments for care.
    5. **Health Information Trust Alliance (HITRUST®)**: It is a security framework and assurance program that helps institutions meet HIPAA compliance.
+8. **International Organization for Standardization (ISO)**
+   1. It is a _standards' organization_.
+   2. It was created to establish international standards related to technology, manufacturing, and management across borders. It helps organizations improve their processes and procedures for staff retention, planning, waste, and services.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
