@@ -414,4 +414,4 @@ Ethically, our job is to remain unbiased and maintain security and confidentiali
 
 1. Confidentiality: Proprietary or private information such as PII must be kept confidential and safe.
 2. Privacy Protections: Safeguarding personal information from unauthorized use.
-3. Laws
+3. Laws: The rules that are recognized by a community and enforced by a governing entity.
