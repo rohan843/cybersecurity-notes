@@ -423,4 +423,8 @@ Ethically, our job is to remain unbiased and maintain security and confidentiali
 
 #### US's Standpoint on Counterattacks
 
+In the US, deploying a counterattack on a threat actor is illegal and only defence is allowed. Counterattacks are seen as acts of vigilantism. (A vigilante is a person who is not a member of law enforcement who decides to stop a crime on their own.)
+
+Counterattacks can lead to further escalation, leading to more damage and harm. Furthermore, if the attack was undertaken by a state-sponsored hacktivist (from another country), it could lead to serious international implications.
+
 #### ICJ's Standpoint on Counterattacks
