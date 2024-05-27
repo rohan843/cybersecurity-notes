@@ -435,3 +435,5 @@ ICJ says that a person or group can counterattack if:
 2. The counterattack is a direct communication asking the initial attacker to stop.
 3. The counterattack does not escalate the situation.
 4. The counterattack effects can be reversed.
+
+Typically, organizations do not counterattack as the above scenarios are hard to measure.
