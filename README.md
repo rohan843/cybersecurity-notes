@@ -404,3 +404,5 @@ Some other controls, frameworks, and compliance standards are:
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
 
 ## Ethics in Cybersecurity
+
+Ethically, our job is to remain unbiased and maintain security and confidentiality.
