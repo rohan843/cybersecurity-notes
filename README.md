@@ -419,6 +419,13 @@ Ethically, our job is to remain unbiased and maintain security and confidentiali
 2. Privacy Protections: Safeguarding personal information from unauthorized use.
 3. Laws: The rules that are recognized by a community and enforced by a governing entity.
 
+As a security professional, we must:
+
+1. Remain unbiased and conduct our work honestly, responsibly, and with the highest respect for the law.
+2. Be transparent and just, and rely on evidence.
+3. Ensure that we are consistently invested in the work we are doing, so we can appropriately and ethically address issues that arise.
+4. Stay informed and strive to advance our skills, so we can contribute to the betterment of the cyber landscape.
+
 ### Ethical Concerns and Laws Related to Counterattacks
 
 #### US's Standpoint on Counterattacks
