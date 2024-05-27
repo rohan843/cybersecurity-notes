@@ -412,6 +412,6 @@ Ethically, our job is to remain unbiased and maintain security and confidentiali
 
 ### Ethical Principles in Security
 
-1. Confidentiality
+1. Confidentiality: Proprietary or private information such as PII must be kept confidential and safe.
 2. Privacy Protections
 3. Laws
