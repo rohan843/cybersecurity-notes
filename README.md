@@ -406,3 +406,5 @@ Some other controls, frameworks, and compliance standards are:
 ## Ethics in Cybersecurity
 
 Ethically, our job is to remain unbiased and maintain security and confidentiality.
+
+**Security Ethics**: Guidelines for making appropriate decisions as a security professional.
