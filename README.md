@@ -34,6 +34,7 @@
     - [Hacker Types](#hacker-types)
   - [Frameworks and Controls](#frameworks-and-controls)
   - [Secure Design](#secure-design)
+  - [Ethics in Cybersecurity](#ethics-in-cybersecurity)
 
 ## Cybersecurity
 
@@ -401,3 +402,5 @@ Some other controls, frameworks, and compliance standards are:
    4. SOC1 and SOC2 are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
+
+## Ethics in Cybersecurity
