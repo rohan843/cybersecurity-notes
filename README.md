@@ -428,3 +428,10 @@ In the US, deploying a counterattack on a threat actor is illegal and only defen
 Counterattacks can lead to further escalation, leading to more damage and harm. Furthermore, if the attack was undertaken by a state-sponsored hacktivist (from another country), it could lead to serious international implications.
 
 #### ICJ's Standpoint on Counterattacks
+
+ICJ says that a person or group can counterattack if:
+
+1. The counterattack will only affect the party that attacked first.
+2. The counterattack is a direct communication asking the initial attacker to stop.
+3. The counterattack does not escalate the situation.
+4. The counterattack effects can be reversed.
