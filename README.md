@@ -36,6 +36,9 @@
   - [Secure Design](#secure-design)
   - [Ethics in Cybersecurity](#ethics-in-cybersecurity)
     - [Ethical Principles in Security](#ethical-principles-in-security)
+    - [Ethical Concerns and Laws Related to Counterattacks](#ethical-concerns-and-laws-related-to-counterattacks)
+      - [US's Standpoint on Counterattacks](#uss-standpoint-on-counterattacks)
+      - [ICJ's Standpoint on Counterattacks](#icjs-standpoint-on-counterattacks)
 
 ## Cybersecurity
 
@@ -415,3 +418,9 @@ Ethically, our job is to remain unbiased and maintain security and confidentiali
 1. Confidentiality: Proprietary or private information such as PII must be kept confidential and safe.
 2. Privacy Protections: Safeguarding personal information from unauthorized use.
 3. Laws: The rules that are recognized by a community and enforced by a governing entity.
+
+### Ethical Concerns and Laws Related to Counterattacks
+
+#### US's Standpoint on Counterattacks
+
+#### ICJ's Standpoint on Counterattacks
