@@ -35,6 +35,7 @@
   - [Frameworks and Controls](#frameworks-and-controls)
   - [Secure Design](#secure-design)
   - [Ethics in Cybersecurity](#ethics-in-cybersecurity)
+    - [Ethical Principles in Security](#ethical-principles-in-security)
 
 ## Cybersecurity
 
@@ -408,3 +409,9 @@ Some other controls, frameworks, and compliance standards are:
 Ethically, our job is to remain unbiased and maintain security and confidentiality.
 
 **Security Ethics**: Guidelines for making appropriate decisions as a security professional.
+
+### Ethical Principles in Security
+
+1. Confidentiality
+2. Privacy Protections
+3. Laws
