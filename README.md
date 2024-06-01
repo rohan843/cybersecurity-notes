@@ -468,6 +468,6 @@ These tools collect data from multiple sources, and then analyse the data to ide
 
 ### Other Tools
 
-**Playbook**: A manual that provides details about any operational action. They essentially guide security analysts on how to respond to a security incident before, during and after it has occurred.
+**Playbook**: A manual that provides details about any operational action. They essentially guide security analysts on how to respond to a security incident before, during and after it has occurred. Different organizations have different playbooks, but the idea is to provide a step by step guide to the security analysts to complete specific tasks.
 
 **Network Protocol Analyser**: [aka Packet Sniffer] This is a tool designed to capture and analyse data traffic within a network. These tools therefore keep a record of all the data that a computer within an organization's network encounters. For e.g., tcpdump and Wireshark.
