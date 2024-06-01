@@ -454,3 +454,11 @@ Typically, organizations do not counterattack as the above scenarios are hard to
 ### Security Information and Event Management (SIEM) Tools
 
 These are applications that collect and analyse log data to monitor critical activities in an organization. These tools collect real time information, allowing security analysts to identify potential breached as they happen.
+
+Splunk and Chronicle are two commonly used SIEM tools.
+
+**Splunk** is a data analysis platform. It is provided by the Splunk Enterprise as a self-hosted tool.
+
+**Chronicle** is a cloud based SIEM tool provided by Google.
+
+These tools collect data from multiple sources, and then analyse the data to identify potential security threats.
