@@ -39,6 +39,7 @@
     - [Ethical Concerns and Laws Related to Counterattacks](#ethical-concerns-and-laws-related-to-counterattacks)
       - [US's Standpoint on Counterattacks](#uss-standpoint-on-counterattacks)
       - [ICJ's Standpoint on Counterattacks](#icjs-standpoint-on-counterattacks)
+  - [Common Cybersecurity Tools](#common-cybersecurity-tools)
 
 ## Cybersecurity
 
@@ -444,3 +445,7 @@ ICJ says that a person or group can counterattack if:
 4. The counterattack effects can be reversed.
 
 Typically, organizations do not counterattack as the above scenarios are hard to measure.
+
+## Common Cybersecurity Tools
+
+
