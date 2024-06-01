@@ -453,4 +453,4 @@ Typically, organizations do not counterattack as the above scenarios are hard to
 
 ### Security Information and Event Management (SIEM) Tools
 
-These are applications that collect and analyse log data to monitor critical activities in an organization.
+These are applications that collect and analyse log data to monitor critical activities in an organization. These tools collect real time information, allowing security analysts to identify potential breached as they happen.
