@@ -41,6 +41,7 @@
       - [ICJ's Standpoint on Counterattacks](#icjs-standpoint-on-counterattacks)
   - [Common Cybersecurity Tools](#common-cybersecurity-tools)
     - [Security Information and Event Management (SIEM) Tools](#security-information-and-event-management-siem-tools)
+    - [Other Tools](#other-tools)
 
 ## Cybersecurity
 
@@ -462,3 +463,9 @@ Splunk and Chronicle are two commonly used SIEM tools.
 **Chronicle** is a cloud based SIEM tool provided by Google.
 
 These tools collect data from multiple sources, and then analyse the data to identify potential security threats.
+
+### Other Tools
+
+**Playbook**: A manual that provides details about any operational action. They essentially guide security analysts on how to respond to a security incident before, during and after it has occurred.
+
+**Network Protocol Analyser**: [aka Packet Sniffer] This is a tool designed to capture and analyse data traffic within a network.
