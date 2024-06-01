@@ -468,4 +468,4 @@ These tools collect data from multiple sources, and then analyse the data to ide
 
 **Playbook**: A manual that provides details about any operational action. They essentially guide security analysts on how to respond to a security incident before, during and after it has occurred.
 
-**Network Protocol Analyser**: [aka Packet Sniffer] This is a tool designed to capture and analyse data traffic within a network.
+**Network Protocol Analyser**: [aka Packet Sniffer] This is a tool designed to capture and analyse data traffic within a network. For e.g., tcpdump and Wireshark.
