@@ -447,3 +447,5 @@ ICJ says that a person or group can counterattack if:
 Typically, organizations do not counterattack as the above scenarios are hard to measure.
 
 ## Common Cybersecurity Tools
+
+**Log**: It is a record of events that occur within an organization's systems.
