@@ -42,6 +42,7 @@
   - [Common Cybersecurity Tools](#common-cybersecurity-tools)
     - [Security Information and Event Management (SIEM) Tools](#security-information-and-event-management-siem-tools)
     - [Other Tools](#other-tools)
+    - [General Purpose Tools](#general-purpose-tools)
 
 ## Cybersecurity
 
