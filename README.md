@@ -40,6 +40,7 @@
       - [US's Standpoint on Counterattacks](#uss-standpoint-on-counterattacks)
       - [ICJ's Standpoint on Counterattacks](#icjs-standpoint-on-counterattacks)
   - [Common Cybersecurity Tools](#common-cybersecurity-tools)
+    - [Security Information and Event Management (SIEM) Tools](#security-information-and-event-management-siem-tools)
 
 ## Cybersecurity
 
@@ -449,3 +450,7 @@ Typically, organizations do not counterattack as the above scenarios are hard to
 ## Common Cybersecurity Tools
 
 **Log**: It is a record of events that occur within an organization's systems, such as employees signing into their computers or accessing web based services.
+
+### Security Information and Event Management (SIEM) Tools
+
+These are applications that collect and analyse log data to monitor critical activities in an organization.
