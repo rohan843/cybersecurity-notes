@@ -456,6 +456,8 @@ Typically, organizations do not counterattack as the above scenarios are hard to
 
 These are applications that collect and analyse log data to monitor critical activities in an organization. These tools collect real time information, allowing security analysts to identify potential breached as they happen.
 
+SIEM tools have a dashboard like interface that visually organizes data into categories. Users can then select the data they wish to analyse.
+
 Splunk and Chronicle are two commonly used SIEM tools.
 
 **Splunk** is a data analysis platform. It is provided by the Splunk Enterprise as a self-hosted tool.
