@@ -481,3 +481,5 @@ Consider as an example a forensic team investigating a security breach at a medi
 ### General Purpose Tools
 
 Linux, SQL and Python are commonly used in cybersecurity.
+
+**Web Vulnerability**: This is any unique flaw in a web application that a threat actor could exploit by using malicious code or behaviour to allow unauthorized access, data theft and malware deployment.
