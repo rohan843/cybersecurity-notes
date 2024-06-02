@@ -487,3 +487,5 @@ Linux, SQL and Python are commonly used in cybersecurity.
 **Antivirus Software**: [aka anti-malware] This is a program used to prevent, detect and eliminate malware and viruses. Some antivirus softwares can scan the mamory of a device to find patterns that indicate the presence of malware.
 
 **Intrusion Detection System (IDS)**: An IDS is an application that monitors system activity and alerts on possible intrusions. The system scans and analyzes network packets, which carry small amounts of data through a network. The small amount of data makes the detection process easier for an IDS to identify potential threats to sensitive data. Other occurrences an IDS might detect can include theft and unauthorized access.
+
+**Penetration Testing**: [aka Pen-testing] It is the act of participating in a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications and processes. It is a thorough risk assessment that can evaluate and identify external and internal threats, and weaknesses.
