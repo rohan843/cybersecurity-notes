@@ -491,3 +491,5 @@ Linux, SQL and Python are commonly used in cybersecurity.
 **Penetration Testing**: [aka Pen-testing] It is the act of participating in a simulated attack that helps identify vulnerabilities in systems, networks, websites, applications and processes. It is a thorough risk assessment that can evaluate and identify external and internal threats, and weaknesses.
 
 **Encryption**: It makes data unreadable and difficult to decode for an unauthorized user. Its main goal is to ensure confidentiality of private data. _Encryption_ is the process of converting data from a readable format to a cryptographically encoded format. _Cryptographic encoding_ means converting plaintext into secure ciphertext. _Plaintext_ is unencrypted information and _secure ciphertext_ is the result of encryption.
+
+> Encoding and encryption serve different purposes. Encoding uses a public conversion algorithm to enable systems that use different data representations to share information.
