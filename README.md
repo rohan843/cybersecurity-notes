@@ -479,3 +479,5 @@ Consider as an example a forensic team investigating a security breach at a medi
 **Network Protocol Analyser**: [aka Packet Sniffer] This is a tool designed to capture and analyse data traffic within a network. These tools therefore keep a record of all the data that a computer within an organization's network encounters. For e.g., tcpdump and Wireshark.
 
 ### General Purpose Tools
+
+Linux, SQL and Python are commonly used in cybersecurity.
