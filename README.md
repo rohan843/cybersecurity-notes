@@ -483,3 +483,5 @@ Consider as an example a forensic team investigating a security breach at a medi
 Linux, SQL and Python are commonly used in cybersecurity.
 
 **Web Vulnerability**: This is any unique flaw in a web application that a threat actor could exploit by using malicious code or behaviour to allow unauthorized access, data theft and malware deployment.
+
+**Antivirus Software**: [aka anti-malware] This is a program used to prevent, detect and eliminate malware and viruses. Some antivirus softwares can scan the mamory of a device to find patterns that indicate the presence of malware.
