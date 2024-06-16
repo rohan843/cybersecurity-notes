@@ -47,7 +47,7 @@
     - [Dom. 1: Security and Risk Management](#dom-1-security-and-risk-management)
     - [Dom. 2: Asset Security](#dom-2-asset-security)
     - [Dom. 3: Security Architecture and Engineering](#dom-3-security-architecture-and-engineering)
-    - [Dom. 4: Security and Risk Management](#dom-4-security-and-risk-management)
+    - [Dom. 4: Communication and Network Security](#dom-4-communication-and-network-security)
     - [Dom. 5: Security and Risk Management](#dom-5-security-and-risk-management)
     - [Dom. 6: Security and Risk Management](#dom-6-security-and-risk-management)
     - [Dom. 7: Security and Risk Management](#dom-7-security-and-risk-management)
@@ -535,7 +535,9 @@ One core concept of shared design architecture is **shared responsibility**. It 
 
 This involves having policies to allow users to identify and report security concerns.
 
-### Dom. 4: Security and Risk Management
+### Dom. 4: Communication and Network Security
+
+It is focussed on managing and securing physical networks and wireless communications.
 
 ### Dom. 5: Security and Risk Management
 
