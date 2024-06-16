@@ -531,6 +531,8 @@ For example, proper destruction of old hard drives.
 
 It is focussed on optimizing data security by ensuring effective tools, systems, and processes are in place to protect an organizations assets and data.
 
+One core concept of shared design architecture is **shared responsibility**. It means all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security.
+
 ### Dom. 4: Security and Risk Management
 
 ### Dom. 5: Security and Risk Management
