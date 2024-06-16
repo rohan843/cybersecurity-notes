@@ -496,3 +496,5 @@ Linux, SQL and Python are commonly used in cybersecurity.
 > Encoding and encryption serve different purposes. Encoding uses a public conversion algorithm to enable systems that use different data representations to share information, for example, string data can be ASCII encoded or UTF-8 encoded, but neither of these qualifies as encrypted as these are well known string encodings.
 
 ## 8 CISSP Domains
+
+**Security Posture**: An organization's ability to manage its defence of critical assets and data, and react to change.
