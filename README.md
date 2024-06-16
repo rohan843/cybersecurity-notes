@@ -45,7 +45,7 @@
     - [General Purpose Tools](#general-purpose-tools)
   - [8 CISSP Domains](#8-cissp-domains)
     - [Dom. 1: Security and Risk Management](#dom-1-security-and-risk-management)
-    - [Dom. 2: Security and Risk Management](#dom-2-security-and-risk-management)
+    - [Dom. 2: Asset Security](#dom-2-asset-security)
     - [Dom. 3: Security and Risk Management](#dom-3-security-and-risk-management)
     - [Dom. 4: Security and Risk Management](#dom-4-security-and-risk-management)
     - [Dom. 5: Security and Risk Management](#dom-5-security-and-risk-management)
@@ -232,7 +232,7 @@ Gaps in any of these can harm an organization.
 The domains are:
 
 1. **Security and Risk Management**: It defines security goals and objectives, risk mitigation, compliance, business continuity and the law. For e.g., updating company policies about some PII storage as the laws change.
-2. **Asset Security**: It secures digital and physical assets. It's also related to the storage, maintenence, retention and destruction of data. For e.g., ensuring older equipment is properly destroyed, including any kind of sensitive information.
+2. **Asset Security**: It secures digital and physical assets. It's also related to the storage, maintenance, retention and destruction of data. For e.g., ensuring older equipment is properly destroyed, including any kind of sensitive information.
 3. **Security Architecture and Engineering**: It optimizes data security by ensuring effective tools, systems, and processes are in place. For e.g., setting up a firewall.
 4. **Communications and Network Security**: Manage and secure physical networks and wireless communications. For e.g., analysing user behaviour within the organization for suspicious activity or unsecured connections.
 5. **Identity and Access Management**: It keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications. This includes validating employees' identities and documenting their access roles. For e.g., setting up employees' key card access to buildings.
@@ -519,7 +519,9 @@ It is focussed on defining security goals and objectives, risk mitigation, compl
 
 **Business Continuity**: An organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans.
 
-### Dom. 2: Security and Risk Management
+### Dom. 2: Asset Security
+
+It is focussed on securing digital and physical assets. It's also related to the storage, maintenance, retention and destruction of data.
 
 ### Dom. 3: Security and Risk Management
 
