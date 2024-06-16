@@ -44,6 +44,14 @@
     - [Other Tools](#other-tools)
     - [General Purpose Tools](#general-purpose-tools)
   - [8 CISSP Domains](#8-cissp-domains)
+    - [Dom. 1: Security and Risk Management](#dom-1-security-and-risk-management)
+    - [Dom. 2: Security and Risk Management](#dom-2-security-and-risk-management)
+    - [Dom. 3: Security and Risk Management](#dom-3-security-and-risk-management)
+    - [Dom. 4: Security and Risk Management](#dom-4-security-and-risk-management)
+    - [Dom. 5: Security and Risk Management](#dom-5-security-and-risk-management)
+    - [Dom. 6: Security and Risk Management](#dom-6-security-and-risk-management)
+    - [Dom. 7: Security and Risk Management](#dom-7-security-and-risk-management)
+    - [Dom. 8: Security and Risk Management](#dom-8-security-and-risk-management)
 
 ## Cybersecurity
 
@@ -498,3 +506,27 @@ Linux, SQL and Python are commonly used in cybersecurity.
 ## 8 CISSP Domains
 
 **Security Posture**: An organization's ability to manage its defence of critical assets and data, and react to change.
+
+### Dom. 1: Security and Risk Management
+
+It is focussed on defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulations.
+
+**Defining security goals and objectives**: By doing so, organizations can reduce risks to critical assets and data, such as PII.
+
+**Risk Mitigation**: It is the process of having the right procedures and rules in place to quickly reduce the impact of a risk, like a breach.
+
+**Compliance**: It is the primary method used to develop an organization's internal security policies, regulatory requirements, and independent standards.
+
+### Dom. 2: Security and Risk Management
+
+### Dom. 3: Security and Risk Management
+
+### Dom. 4: Security and Risk Management
+
+### Dom. 5: Security and Risk Management
+
+### Dom. 6: Security and Risk Management
+
+### Dom. 7: Security and Risk Management
+
+### Dom. 8: Security and Risk Management
