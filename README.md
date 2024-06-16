@@ -517,6 +517,8 @@ It is focussed on defining security goals and objectives, risk mitigation, compl
 
 **Compliance**: It is the primary method used to develop an organization's internal security policies, regulatory requirements, and independent standards.
 
+**Business Continuity**: An organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans.
+
 ### Dom. 2: Security and Risk Management
 
 ### Dom. 3: Security and Risk Management
