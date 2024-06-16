@@ -523,6 +523,8 @@ It is focussed on defining security goals and objectives, risk mitigation, compl
 
 It is focussed on securing digital and physical assets. It's also related to the storage, maintenance, retention and destruction of data.
 
+There should be proper security in place for critical data such as PII and SPII, when stored or moved over a network. Moreover, there should be proper rules in place to decide how to store, maintain and destroy data.
+
 ### Dom. 3: Security and Risk Management
 
 ### Dom. 4: Security and Risk Management
