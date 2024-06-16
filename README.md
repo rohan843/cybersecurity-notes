@@ -533,6 +533,8 @@ It is focussed on optimizing data security by ensuring effective tools, systems,
 
 One core concept of shared design architecture is **shared responsibility**. It means all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security.
 
+This involves having policies to allow users to identify and report security concerns.
+
 ### Dom. 4: Security and Risk Management
 
 ### Dom. 5: Security and Risk Management
