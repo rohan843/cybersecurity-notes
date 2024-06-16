@@ -46,7 +46,7 @@
   - [8 CISSP Domains](#8-cissp-domains)
     - [Dom. 1: Security and Risk Management](#dom-1-security-and-risk-management)
     - [Dom. 2: Asset Security](#dom-2-asset-security)
-    - [Dom. 3: Security and Risk Management](#dom-3-security-and-risk-management)
+    - [Dom. 3: Security Architecture and Engineering](#dom-3-security-architecture-and-engineering)
     - [Dom. 4: Security and Risk Management](#dom-4-security-and-risk-management)
     - [Dom. 5: Security and Risk Management](#dom-5-security-and-risk-management)
     - [Dom. 6: Security and Risk Management](#dom-6-security-and-risk-management)
@@ -525,7 +525,11 @@ It is focussed on securing digital and physical assets. It's also related to the
 
 There should be proper security in place for critical data such as PII and SPII, when stored or moved over a network. Moreover, there should be proper rules in place to decide how to store, maintain and destroy data.
 
-### Dom. 3: Security and Risk Management
+For example, proper destruction of old hard drives.
+
+### Dom. 3: Security Architecture and Engineering
+
+It is focussed on optimizing data security by ensuring effective tools, systems, and processes are in place to protect an organizations assets and data.
 
 ### Dom. 4: Security and Risk Management
 
