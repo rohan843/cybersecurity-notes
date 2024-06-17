@@ -51,7 +51,7 @@
     - [Dom. 5: Identity and Access Management](#dom-5-identity-and-access-management)
     - [Dom. 6: Security Assessment and Testing](#dom-6-security-assessment-and-testing)
     - [Dom. 7: Security Operations](#dom-7-security-operations)
-    - [Dom. 8: Security and Risk Management](#dom-8-security-and-risk-management)
+    - [Dom. 8: Software Development Security](#dom-8-software-development-security)
 
 ## Cybersecurity
 
@@ -576,4 +576,4 @@ Once a threat is neutralized, the collection of digital and physical evidence to
 
 A digital forensic investigation must take place to determine when, how and why the breach occurred. This helps security teams to identify areas for improvement and preventative measures that can be taken to mitigate future attacks.
 
-### Dom. 8: Security and Risk Management
+### Dom. 8: Software Development Security
