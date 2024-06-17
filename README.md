@@ -587,6 +587,8 @@ This domain usually involves examining organizational goals and objectives, and 
 
 This involves collecting and analysing security data regularly. Analysts might use security control testing evaluations and security assessment reports to improve existing controls or implement new controls.
 
+Security assessments help organizations determine whether their internal systems are secure or at risk. Organizations might employ penetration testers, often referred to as "pen testers," to find vulnerabilities that could be exploited by a threat actor.
+
 An example of implementing new controls could be the introduction of multi-factor authentication to better protect the organization from threats and risks.
 
 ### Dom. 7: Security Operations
