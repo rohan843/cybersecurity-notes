@@ -545,9 +545,18 @@ Conducting a security impact analysis, establishing a recovery plan, and managin
 
 It is focussed on optimizing data security by ensuring effective tools, systems, and processes are in place to protect an organizations assets and data.
 
-One core concept of shared design architecture is **shared responsibility**. It means all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security.
+One core concept of shared design architecture is **shared responsibility**. It means all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security. This involves having policies to allow users to identify and report security concerns. Additional design principles related to this domain include:
 
-This involves having policies to allow users to identify and report security concerns.
+1. Threat modeling
+2. Least privilege
+3. Defense in depth
+4. Fail securely
+5. Separation of duties
+6. Keep it simple
+7. Zero trust
+8. Trust but verify
+
+An example of managing data is the use of a security information and event management (SIEM) tool to monitor for flags related to unusual login or user activity that could indicate a threat actor is attempting to access private data.
 
 ### Dom. 4: Communication and Network Security
 
