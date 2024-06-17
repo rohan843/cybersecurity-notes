@@ -568,4 +568,12 @@ An example of implementing new controls could be the introduction of multi-facto
 
 This domain is focussed on conducting investigations and implementing preventative measures.
 
+Investigations begin once a security incident has been identified. These processes require a heightened sense of urgency in order to minimize potential risks to the organization.
+
+If there is an active attack, mitigating it and preventing it from escalating further is essential for ensuring that private information is protected from threat actors.
+
+Once a threat is neutralized, the collection of digital and physical evidence to conduct a forensic investigation will begin.
+
+A digital forensic investigation must take place to determine when, how and why the breach occurred. This helps security teams to identify areas for improvement and preventative measures that can be taken to mitigate future attacks.
+
 ### Dom. 8: Security and Risk Management
