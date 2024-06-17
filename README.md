@@ -519,6 +519,18 @@ It is focussed on defining security goals and objectives, risk mitigation, compl
 
 **Business Continuity**: An organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans.
 
+**Legal regulations** and **professional and organizational ethics** are other important components of this domain.
+
+**Information security**, or InfoSec, is also related to this domain and refers to a set of processes established to secure information. An organization may use playbooks and implement training as a part of their security and risk management program, based on their needs and perceived risk. There are many InfoSec design processes, such as:
+
+1. Incident response
+2. Vulnerability management
+3. Application security
+4. Cloud security
+5. Infrastructure security
+
+As an example, a security team may need to alter how personally identifiable information (PII) is treated in order to adhere to the European Union's General Data Protection Regulation (GDPR).
+
 ### Dom. 2: Asset Security
 
 It is focussed on securing digital and physical assets. It's also related to the storage, maintenance, retention and destruction of data.
