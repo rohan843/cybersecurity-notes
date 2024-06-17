@@ -579,3 +579,7 @@ A digital forensic investigation must take place to determine when, how and why 
 ### Dom. 8: Software Development Security
 
 It is focussed on using secure coding practices. Secure coding practices are recommended guidelines that are used to create secure applications and services.
+
+Security is an additional step in the SDLC. By ensuring that each phase of the SDLC undergoes security reviews, security can be fully integrated into the software product.
+
+For example, performing a secure design review during the design phase, secure code reviews during the development and testing phases, and penetration testing during the deployment and implementation phase.
