@@ -591,6 +591,8 @@ Security assessments help organizations determine whether their internal systems
 
 An example of implementing new controls could be the introduction of multi-factor authentication to better protect the organization from threats and risks.
 
+Additionally, this domain emphasizes the importance of conducting security audits to monitor for and reduce the probability of a data breach. To contribute to these types of tasks, cybersecurity professionals may be tasked with auditing user permissions to validate that users have the correct levels of access to internal systems.
+
 ### Dom. 7: Security Operations
 
 This domain is focussed on conducting investigations and implementing preventative measures.
