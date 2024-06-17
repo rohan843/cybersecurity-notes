@@ -545,6 +545,14 @@ It is focussed on access and authorization to keep data secure, by making sure u
 
 We should ensure the access to data is limited to what employees need. The goal of IAM is to reduce the overall risk to systems and data.
 
+Consider if all users used the same admin account. It would be very difficult to identify which user performed what activity.
+
+There are **4 main components to IAM**:
+
+1. **Identification**: When a user verifies who they are by providing a username, an access card, or biometric data such as a fingerprint.
+2. **Authentication**: It is a verification process to prove a person's identity such as entering a password or PIN.
+3. **Authorization**: It takes place once a user's identity has been confirmed. It relates to the level of access of the user, which depends on the role of the user in the organization.
+
 ### Dom. 6: Security and Risk Management
 
 ### Dom. 7: Security and Risk Management
