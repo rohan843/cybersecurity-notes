@@ -552,6 +552,7 @@ There are **4 main components to IAM**:
 1. **Identification**: When a user verifies who they are by providing a username, an access card, or biometric data such as a fingerprint.
 2. **Authentication**: It is a verification process to prove a person's identity such as entering a password or PIN.
 3. **Authorization**: It takes place once a user's identity has been confirmed. It relates to the level of access of the user, which depends on the role of the user in the organization.
+4. **Accountability**: It refers to monitoring and recording user actions such as login attempts to prove systems and data are used properly.
 
 ### Dom. 6: Security and Risk Management
 
