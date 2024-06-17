@@ -543,6 +543,8 @@ It is focussed on managing and securing physical networks and wireless communica
 
 It is focussed on access and authorization to keep data secure, by making sure users follow established policies to control and manage assets.
 
+We should ensure the access to data is limited to what employees need. The goal of IAM is to reduce the overall risk to systems and data.
+
 ### Dom. 6: Security and Risk Management
 
 ### Dom. 7: Security and Risk Management
