@@ -539,6 +539,8 @@ There should be proper security in place for critical data such as PII and SPII,
 
 For example, proper destruction of old hard drives.
 
+Conducting a security impact analysis, establishing a recovery plan, and managing data exposure will depend on the level of risk associated with each asset. Security analysts may need to store, maintain, and retain data by creating backups to ensure they are able to restore the environment if a security incident places the organization’s data at risk.
+
 ### Dom. 3: Security Architecture and Engineering
 
 It is focussed on optimizing data security by ensuring effective tools, systems, and processes are in place to protect an organizations assets and data.
