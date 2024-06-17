@@ -560,6 +560,8 @@ It is focussed on conducting security control testing, collecting and analysing 
 
 This domain usually involves examining organizational goals and objectives, and evaluating if the controls being used actually achieve those goals.
 
+This involves collecting and analysing security data regularly. Analysts might use security control testing evaluations and security assessment reports to improve existing controls or implement new controls.
+
 ### Dom. 7: Security and Risk Management
 
 ### Dom. 8: Security and Risk Management
