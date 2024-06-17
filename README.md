@@ -562,7 +562,7 @@ This domain usually involves examining organizational goals and objectives, and 
 
 This involves collecting and analysing security data regularly. Analysts might use security control testing evaluations and security assessment reports to improve existing controls or implement new controls.
 
-An example of implementing new controls could be introduction of multi-factor authentication to better protect the orga
+An example of implementing new controls could be the introduction of multi-factor authentication to better protect the organization from threats and risks.
 
 ### Dom. 7: Security and Risk Management
 
