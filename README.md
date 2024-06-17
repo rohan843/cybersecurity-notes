@@ -558,6 +558,8 @@ There are **4 main components to IAM**:
 
 It is focussed on conducting security control testing, collecting and analysing data, and conducting security audits to monitor for risks, threats and vulnerabilities.
 
+This domain usually involves examining organizational goals and objectives, and evaluating if the controls being used actually achieve those goals.
+
 ### Dom. 7: Security and Risk Management
 
 ### Dom. 8: Security and Risk Management
