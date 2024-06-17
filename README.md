@@ -48,7 +48,7 @@
     - [Dom. 2: Asset Security](#dom-2-asset-security)
     - [Dom. 3: Security Architecture and Engineering](#dom-3-security-architecture-and-engineering)
     - [Dom. 4: Communication and Network Security](#dom-4-communication-and-network-security)
-    - [Dom. 5: Security and Risk Management](#dom-5-security-and-risk-management)
+    - [Dom. 5: Identity and Access Management](#dom-5-identity-and-access-management)
     - [Dom. 6: Security and Risk Management](#dom-6-security-and-risk-management)
     - [Dom. 7: Security and Risk Management](#dom-7-security-and-risk-management)
     - [Dom. 8: Security and Risk Management](#dom-8-security-and-risk-management)
@@ -539,7 +539,9 @@ This involves having policies to allow users to identify and report security con
 
 It is focussed on managing and securing physical networks and wireless communications. For example, globally disallowing employees' laptops from connecting to public networks.
 
-### Dom. 5: Security and Risk Management
+### Dom. 5: Identity and Access Management
+
+It is focussed on access and authorization to keep data secure, by making sure users follow established policies to control and manage assets.
 
 ### Dom. 6: Security and Risk Management
 
