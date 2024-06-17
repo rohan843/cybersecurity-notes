@@ -50,7 +50,7 @@
     - [Dom. 4: Communication and Network Security](#dom-4-communication-and-network-security)
     - [Dom. 5: Identity and Access Management](#dom-5-identity-and-access-management)
     - [Dom. 6: Security Assessment and Testing](#dom-6-security-assessment-and-testing)
-    - [Dom. 7: Security and Risk Management](#dom-7-security-and-risk-management)
+    - [Dom. 7: Security Operations](#dom-7-security-operations)
     - [Dom. 8: Security and Risk Management](#dom-8-security-and-risk-management)
 
 ## Cybersecurity
@@ -564,6 +564,8 @@ This involves collecting and analysing security data regularly. Analysts might u
 
 An example of implementing new controls could be the introduction of multi-factor authentication to better protect the organization from threats and risks.
 
-### Dom. 7: Security and Risk Management
+### Dom. 7: Security Operations
+
+This domain is focussed on conducting investigations and implementing preventative measures.
 
 ### Dom. 8: Security and Risk Management
