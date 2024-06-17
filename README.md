@@ -49,7 +49,7 @@
     - [Dom. 3: Security Architecture and Engineering](#dom-3-security-architecture-and-engineering)
     - [Dom. 4: Communication and Network Security](#dom-4-communication-and-network-security)
     - [Dom. 5: Identity and Access Management](#dom-5-identity-and-access-management)
-    - [Dom. 6: Security and Risk Management](#dom-6-security-and-risk-management)
+    - [Dom. 6: Security Assessment and Testing](#dom-6-security-assessment-and-testing)
     - [Dom. 7: Security and Risk Management](#dom-7-security-and-risk-management)
     - [Dom. 8: Security and Risk Management](#dom-8-security-and-risk-management)
 
@@ -554,7 +554,9 @@ There are **4 main components to IAM**:
 3. **Authorization**: It takes place once a user's identity has been confirmed. It relates to the level of access of the user, which depends on the role of the user in the organization.
 4. **Accountability**: It refers to monitoring and recording user actions such as login attempts to prove systems and data are used properly.
 
-### Dom. 6: Security and Risk Management
+### Dom. 6: Security Assessment and Testing
+
+It is focussed on conducting security control testing, collecting and analysing data, and conducting security audits to monitor for risks, threats and vulnerabilities.
 
 ### Dom. 7: Security and Risk Management
 
