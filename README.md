@@ -566,7 +566,7 @@ Organizations with remote, hybrid, and on-site work environments must ensure dat
 
 ### Dom. 5: Identity and Access Management
 
-It is focussed on access and authorization to keep data secure, by making sure users follow established policies to control and manage assets.
+It is focussed on access and authorization to keep data secure, by making sure users follow established policies to control and manage assets. It does this by ensuring user identities are trusted and authenticated and that access to physical and logical assets is authorized.
 
 We should ensure the access to data is limited to what employees need. The goal of IAM is to reduce the overall risk to systems and data. IAM uses **the principle of least privilege**, which is the concept of granting only the minimal access and authorization required to complete a task. As an example, a cybersecurity analyst might be asked to ensure that customer service representatives can only view the private data of a customer, such as their phone number, while working to resolve the customer's issue; then remove access when the customer's issue is resolved.
 
