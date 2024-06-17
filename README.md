@@ -605,6 +605,18 @@ Once a threat is neutralized, the collection of digital and physical evidence to
 
 A digital forensic investigation must take place to determine when, how and why the breach occurred. This helps security teams to identify areas for improvement and preventative measures that can be taken to mitigate future attacks.
 
+This domain includes using strategies, processes, and tools such as:
+
+1. Training and awareness
+2. Reporting and documentation
+3. Intrusion detection and prevention
+4. SIEM tools
+5. Log management
+6. Incident management
+7. Playbooks
+8. Post-breach forensics
+9. Reflecting on lessons learned
+
 ### Dom. 8: Software Development Security
 
 It is focussed on using secure coding practices. Secure coding practices are recommended guidelines that are used to create secure applications and services.
