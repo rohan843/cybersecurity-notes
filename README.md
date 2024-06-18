@@ -648,3 +648,5 @@ Performing application security tests can help ensure vulnerabilities are identi
 ### Impact study of Ransomware
 
 **Ransomware** is a malicious attack where threat actors encrypt an organization's data and demand payment to restore access.
+
+After deployment, ransomware can freeze network systems, make devices unusable and lock confidential data, making devices inaccessible.
