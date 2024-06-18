@@ -646,3 +646,5 @@ Performing application security tests can help ensure vulnerabilities are identi
 > For there to be a risk, _both_ threat _and_ vulnerability must be present.
 
 ### Impact study of Ransomware
+
+**Ransomware** is a malicious attack where threat actors encrypt an organization's data and demand payment to restore access.
