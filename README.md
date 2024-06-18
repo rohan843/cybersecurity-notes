@@ -52,6 +52,7 @@
     - [Dom. 6: Security Assessment and Testing](#dom-6-security-assessment-and-testing)
     - [Dom. 7: Security Operations](#dom-7-security-operations)
     - [Dom. 8: Software Development Security](#dom-8-software-development-security)
+  - [Threats, Risks and Vulnerabilities](#threats-risks-and-vulnerabilities)
 
 ## Cybersecurity
 
@@ -626,3 +627,5 @@ Security is an additional step in the SDLC. By ensuring that each phase of the S
 For example, performing a secure design review during the design phase, secure code reviews during the development and testing phases, and penetration testing during the deployment and implementation phase.
 
 Performing application security tests can help ensure vulnerabilities are identified and mitigated accordingly. Having a system in place to test the programming conventions, software executables, and security measures embedded in the software is necessary. Having quality assurance and pen tester professionals ensure the software has met security and performance standards is also an essential part of the software development process. For example, an entry-level analyst working for a pharmaceutical company might be asked to make sure encryption is properly configured for a new medical device that will store private patient data.
+
+## Threats, Risks and Vulnerabilities
