@@ -53,6 +53,7 @@
     - [Dom. 7: Security Operations](#dom-7-security-operations)
     - [Dom. 8: Software Development Security](#dom-8-software-development-security)
   - [Threats, Risks and Vulnerabilities](#threats-risks-and-vulnerabilities)
+    - [Impact study of Ransomware](#impact-study-of-ransomware)
 
 ## Cybersecurity
 
@@ -643,3 +644,5 @@ Performing application security tests can help ensure vulnerabilities are identi
 **Vulnerability**: A weakness that can be exploited by a threat. For example, an outdated firewall, software or application, weak passwords, or unprotected confidential data. _People_ (client, external vendor or employee) can also be considered a vulnerability. People's actions can significantly affect an organization's internal network. Therefore, maintaining security has to be a united effort. This requires training people to act in a secure manner.
 
 > For there to be a risk, _both_ threat _and_ vulnerability must be present.
+
+### Impact study of Ransomware
