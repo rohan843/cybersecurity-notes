@@ -641,3 +641,5 @@ Performing application security tests can help ensure vulnerabilities are identi
 **High-risk asset**: Information protected by regulations or laws, which if compromized would have a severe negative impact on an organization's finances, ongoing operations or reputation. This could include assets containing SPII, PII or intellectual property.
 
 **Vulnerability**: A weakness that can be exploited by a threat.
+
+> For there to be a risk, _both_ threat _and_ vulnerability must be present.
