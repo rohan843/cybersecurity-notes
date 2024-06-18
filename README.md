@@ -54,6 +54,7 @@
     - [Dom. 8: Software Development Security](#dom-8-software-development-security)
   - [Threats, Risks and Vulnerabilities](#threats-risks-and-vulnerabilities)
     - [Impact study of Ransomware](#impact-study-of-ransomware)
+  - [Layers of the Web](#layers-of-the-web)
 
 ## Cybersecurity
 
@@ -652,3 +653,11 @@ Performing application security tests can help ensure vulnerabilities are identi
 After deployment, ransomware can freeze network systems, make devices unusable and lock confidential data, making devices inaccessible. The threat actor then demands a ransom before providing a decryption key to allow organizations to return to their normal business operations.
 
 When ransom negotiations occur or data is leaked by a threat actor, these eventa can occur through the dark web.
+
+## Layers of the Web
+
+The Web is an interlinked network of online content made up of **3 layers**:
+
+1. **Surface Web**: It is the layer that most people use. It's content can be accessed by a web browser.
+2. **Deep Web**: The content of the deep web requires authorization to access it. For example, an intranet of an organization, only accessible to individuals with access specifically provided by the organization.
+3. **Dark Web**:
