@@ -659,6 +659,7 @@ When ransom negotiations occur or data is leaked by a threat actor, these eventa
 
 1. **Financial Impact**: When an organization's assets are compromized in an attack, the financial consequences can be significant. These can include interrupted production and services, the cost to correct the issue, and fines if assets are compromized because of non-compliance with laws and regulations.
 2. **Identity Theft**: Storing any kind of personal data poses a risk to an organization. Sensitive data can include PII, which can be sold or leaked through the dark web. This is because the dark web provides a sense of secrecy, and threat actors may be able to sell data there without legal consequences.
+3. **Reputational Damage**: A solid customer base supports an organization's mission, vision and financial goals. An exploited vulnerability can lead customers to seek new business relationships with competitors or create bad press that causes permanent damage to an organization's reputation.
 
 ## Layers of the Web
 
