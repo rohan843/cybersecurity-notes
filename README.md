@@ -660,4 +660,4 @@ The Web is an interlinked network of online content made up of **3 layers**:
 
 1. **Surface Web**: It is the layer that most people use. It's content can be accessed by a web browser.
 2. **Deep Web**: The content of the deep web requires authorization to access it. For example, an intranet of an organization, only accessible to individuals with access specifically provided by the organization.
-3. **Dark Web**:
+3. **Dark Web**: It can only be accessed using special software. It generally carries a negative connotation since it is the preferred web layer for criminals because of the secrecy it provides.
