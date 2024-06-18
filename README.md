@@ -638,4 +638,4 @@ Performing application security tests can help ensure vulnerabilities are identi
 
 **Medium-risk asset**: Information that's not available to the public and may cause some damage to the organization's finances, reputation or ongoing operations. For example, the early release of a company's quaterly earnings could impact the value of their stock.
 
-**High-risk asset**: Information protected by regulations or laws, which if compromized would have a severe negative impact on an organization's finances, ongoing operations or reputation.
+**High-risk asset**: Information protected by regulations or laws, which if compromized would have a severe negative impact on an organization's finances, ongoing operations or reputation. This could include assets containing SPII, PII or intellectual property.
