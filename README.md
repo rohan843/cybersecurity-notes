@@ -630,4 +630,6 @@ Performing application security tests can help ensure vulnerabilities are identi
 
 ## Threats, Risks and Vulnerabilities
 
-**Threat**: Any circumstance or event that can negatively impact assets. An example is a social engineering attack (a manipulation technique exploiting human error to gain private information, access or valuables.)
+**Threat**: Any circumstance or event that can negatively impact assets. An example is a social engineering attack (a manipulation technique exploiting human error to gain private information, access or valuables). Another example is phishing (a type of social engineering).
+
+**Risks**: They are different from threats. A risk is anything that can impact the confidentiality, integrity or availability of an asset.
