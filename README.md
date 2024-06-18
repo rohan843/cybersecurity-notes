@@ -650,3 +650,5 @@ Performing application security tests can help ensure vulnerabilities are identi
 **Ransomware** is a malicious attack where threat actors encrypt an organization's data and demand payment to restore access.
 
 After deployment, ransomware can freeze network systems, make devices unusable and lock confidential data, making devices inaccessible. The threat actor then demands a ransom before providing a decryption key to allow organizations to return to their normal business operations.
+
+When ransom negotiations occur or data is leaked by a threat actor, these eventa can occur through the dark web.
