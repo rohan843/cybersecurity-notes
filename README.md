@@ -629,3 +629,5 @@ For example, performing a secure design review during the design phase, secure c
 Performing application security tests can help ensure vulnerabilities are identified and mitigated accordingly. Having a system in place to test the programming conventions, software executables, and security measures embedded in the software is necessary. Having quality assurance and pen tester professionals ensure the software has met security and performance standards is also an essential part of the software development process. For example, an entry-level analyst working for a pharmaceutical company might be asked to make sure encryption is properly configured for a new medical device that will store private patient data.
 
 ## Threats, Risks and Vulnerabilities
+
+**Threat**: Any circumstance or event that can negatively impact assets. An example is a social engineering attack (a manipulation technique exploiting human error to gain private information, access or valuables.)
