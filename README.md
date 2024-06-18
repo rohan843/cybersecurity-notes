@@ -636,4 +636,4 @@ Performing application security tests can help ensure vulnerabilities are identi
 
 **Low-risk asset**: It is information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromized. This includes public information such as website content, published research data.
 
-**Medium-risk asset**: Information that's not available to the public and may cause some damage to the organization's finances, reputation or ongoing operations.
+**Medium-risk asset**: Information that's not available to the public and may cause some damage to the organization's finances, reputation or ongoing operations. For example, the early release of a company's quaterly earnings could impact the value of their stock.
