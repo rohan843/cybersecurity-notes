@@ -54,6 +54,7 @@
     - [Dom. 8: Software Development Security](#dom-8-software-development-security)
   - [Threats, Risks and Vulnerabilities](#threats-risks-and-vulnerabilities)
     - [Impact study of Ransomware](#impact-study-of-ransomware)
+    - [Key Impacts of Threats, Risk and Vulnerabilities](#key-impacts-of-threats-risk-and-vulnerabilities)
   - [Layers of the Web](#layers-of-the-web)
 
 ## Cybersecurity
@@ -653,6 +654,8 @@ Performing application security tests can help ensure vulnerabilities are identi
 After deployment, ransomware can freeze network systems, make devices unusable and lock confidential data, making devices inaccessible. The threat actor then demands a ransom before providing a decryption key to allow organizations to return to their normal business operations.
 
 When ransom negotiations occur or data is leaked by a threat actor, these eventa can occur through the dark web.
+
+### Key Impacts of Threats, Risk and Vulnerabilities
 
 ## Layers of the Web
 
