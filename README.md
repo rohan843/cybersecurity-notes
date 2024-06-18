@@ -657,6 +657,8 @@ When ransom negotiations occur or data is leaked by a threat actor, these eventa
 
 ### Key Impacts of Threats, Risk and Vulnerabilities
 
+1. **Financial Impact**: When an organization's assets are compromized in an attack, the financial consequences can be significant. These can include interrupted production and services, the cost to correct the issue, and fines if assets are compromized because of non-compliance with laws and regulations.
+
 ## Layers of the Web
 
 The Web is an interlinked network of online content made up of **3 layers**:
