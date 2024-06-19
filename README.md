@@ -675,10 +675,10 @@ The Web is an interlinked network of online content made up of **3 layers**:
 
 There are **7 steps** in the RMF:
 
-1. Prepare
-2. Categorize
-3. Select
-4. Implement
-5. Assess
-6. Authorize
-7. Monitor
+1. **Prepare**: The activities that are necessary to manage security and privacy risks, before a breach occurs. This involves monitoring for risks, and identifying controls that can be used to reduce those risks.
+2. **Categorize**:
+3. **Select**:
+4. **Implement**:
+5. **Assess**:
+6. **Authorize**:
+7. **Monitor**:
