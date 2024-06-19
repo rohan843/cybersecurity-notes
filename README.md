@@ -672,3 +672,13 @@ The Web is an interlinked network of online content made up of **3 layers**:
 3. **Dark Web**: It can only be accessed using special software. It generally carries a negative connotation since it is the preferred web layer for criminals because of the secrecy it provides.
 
 ## NIST's Risk Management Framework
+
+There are **7 steps** in the RMF:
+
+1. Prepare
+2. Categorize
+3. Select
+4. Implement
+5. Assess
+6. Authorize
+7. Monitor
