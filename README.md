@@ -680,5 +680,5 @@ There are **7 steps** in the RMF:
 3. **Select**: It involves choosing, customizing and capturing documentation of the controls that protect an organization. For example, keeping the playbook up to date, or helping to manage other documentation that helps the security team manage issues more efficiently.
 4. **Implement**: It involves implementing security and privacy plans for the organization. Good plans when implemented minimize the impact of ongoing security risks. For example, if employees constantly require password resets, implementing a change to password requirements may help solve the issue.
 5. **Assess**: In this step, we determine if the established controls are implemented correctly. Analysts identify potential weaknesses and determine whether the organization's tools, procedures, controls and protocols should be changed to better manage potential risks.
-6. **Authorize**:
+6. **Authorize**: It involves being accountable for the security and privacy risks that may exist in an organization. It could involve generating reports, developing plans of action, and establishing project milestones that are aligned to the organization's security goals.
 7. **Monitor**:
