@@ -678,7 +678,7 @@ There are **7 steps** in the RMF:
 1. **Prepare**: The activities that are necessary to manage security and privacy risks, before a breach occurs. This involves monitoring for risks, and identifying controls that can be used to reduce those risks.
 2. **Categorize**: It is used to develop risk management processes and tasks. The risk management processes are used to develop tasks by thinking how the confidentiality, integrity and availability of systems and information can be impacted by risk.
 3. **Select**: It involves choosing, customizing and capturing documentation of the controls that protect an organization. For example, keeping the playbook up to date, or helping to manage other documentation that helps the security team manage issues more efficiently.
-4. **Implement**:
+4. **Implement**: It involves implementing security and privacy plans for the organization. Good plans when implemented minimize the impact of ongoing security risks. For example, if employees constantly require password resets, implementing a change to password requirements may help solve the issue.
 5. **Assess**:
 6. **Authorize**:
 7. **Monitor**:
