@@ -658,6 +658,8 @@ There are different factors that affect the likelihood of a risk to an organizat
 
 > The [OWASP Top 10](https://owasp.org/www-project-top-ten/) list presents the top 10 risks posed to web applications. The [NIST Cybersecurity Risks List](https://www.nist.gov/itl/smallbusinesscyber/cybersecurity-basics/cybersecurity-risks) presents various common risks posed to software.
 
+**As a security analyst, it is important to stay up-to-date on the most recent risks.**
+
 **Vulnerability**: A weakness that can be exploited by a threat. For example, an outdated firewall, software or application, weak passwords, or unprotected confidential data. _People_ (client, external vendor or employee) can also be considered a vulnerability. People's actions can significantly affect an organization's internal network. Therefore, maintaining security has to be a united effort. This requires training people to act in a secure manner.
 
 > For there to be a risk, _both_ threat _and_ vulnerability must be present.
