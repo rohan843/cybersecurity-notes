@@ -213,7 +213,7 @@ Reasons why social engineering attacks are so effective include:
 
 - **Authority**: Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures.
 - **Intimidation**: Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they are told.
-- **Consensus/Social Proof**: Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past.
+- **Consensus/Social Proof**: Because people sometimes do things that they believe many others are doing, threat actors use others' trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past.
 - **Scarcity**: A tactic used to imply that goods or services are in limited supply.
 - **Familiarity**: Threat actors establish a fake emotional connection with users that can be exploited.
 - **Trust**: Threat actors establish an emotional relationship with users that can be exploited _over time_. They use this relationship to develop trust and gain personal information.
@@ -404,7 +404,7 @@ Some other controls, frameworks, and compliance standards are:
    3. It also provides actionable controls that security professionals may follow if a security incident occurs.
 5. **General Data Protection Regulation (GDPR)**
    1. It is a _European Union (E.U.) general data regulation_.
-   2. It protects the processing of E.U. residents’ data and their right to privacy in and out of E.U. territory.
+   2. It protects the processing of E.U. residents' data and their right to privacy in and out of E.U. territory.
 6. **Payment Card Industry Data Security Standard (PCI DSS)**
    1. It is an _international security standard_.
    2. It ensures that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment.
@@ -413,7 +413,7 @@ Some other controls, frameworks, and compliance standards are:
    1. It is a _U.S. federal law_.
    2. It prohibits patient information from being shared without their consent.
    3. It has 3 rules: Privacy, Security and Breach notification.
-   4. **Protected Health Information (PHI)**: It relates to the past, present, or future physical or mental health or condition of an individual, whether it’s a plan of care or payments for care.
+   4. **Protected Health Information (PHI)**: It relates to the past, present, or future physical or mental health or condition of an individual, whether it's a plan of care or payments for care.
    5. **Health Information Trust Alliance (HITRUST®)**: It is a security framework and assurance program that helps institutions meet HIPAA compliance.
 8. **International Organization for Standardization (ISO)**
    1. It is a _standards' organization_.
@@ -422,7 +422,7 @@ Some other controls, frameworks, and compliance standards are:
    1. This is a _standard_.
    2. It was developed by American Institute of Certified Public Accountants® (AICPA) auditing standards board.
    3. SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels such as Associate, Supervisor, Manager, Executive, Vendor and Others.
-   4. SOC1 and SOC2 are used to assess an organization’s financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
+   4. SOC1 and SOC2 are used to assess an organization's financial compliance and levels of risk. They also cover confidentiality, privacy, integrity, availability, security, and overall data safety. Control failures in these areas can lead to fraud.
 
 > One of the most dangerous threat actors are disgruntled employees, as they have access to sensitive information and know where to find it. To reduce this type of risk, we would use the principle of availability and the organizational guidelines based on frameworks, to ensure staff members only access the data they need to perform their jobs.
 
@@ -545,7 +545,7 @@ There should be proper security in place for critical data such as PII and SPII,
 
 For example, proper destruction of old hard drives.
 
-Conducting a security impact analysis, establishing a recovery plan, and managing data exposure will depend on the level of risk associated with each asset. Security analysts may need to store, maintain, and retain data by creating backups to ensure they are able to restore the environment if a security incident places the organization’s data at risk.
+Conducting a security impact analysis, establishing a recovery plan, and managing data exposure will depend on the level of risk associated with each asset. Security analysts may need to store, maintain, and retain data by creating backups to ensure they are able to restore the environment if a security incident places the organization's data at risk.
 
 ### Dom. 3: Security Architecture and Engineering
 
@@ -568,7 +568,7 @@ An example of managing data is the use of a security information and event manag
 
 It is focussed on managing and securing physical networks and wireless communications. This includes on-site, remote, and cloud communications. For example, globally disallowing employees' laptops from connecting to public networks.
 
-Organizations with remote, hybrid, and on-site work environments must ensure data remains secure, but managing external connections to make certain that remote workers are securely accessing an organization’s networks is a challenge. Designing network security controls-such as restricted network access-can help protect users and ensure an organization's network remains secure when employees travel or work outside of the main office.
+Organizations with remote, hybrid, and on-site work environments must ensure data remains secure, but managing external connections to make certain that remote workers are securely accessing an organization's networks is a challenge. Designing network security controls-such as restricted network access-can help protect users and ensure an organization's network remains secure when employees travel or work outside of the main office.
 
 ### Dom. 5: Identity and Access Management
 
@@ -663,8 +663,8 @@ There are different factors that affect the likelihood of a risk to an organizat
 **Vulnerability**: A weakness that can be exploited by a threat. For example, an outdated firewall, software or application, weak passwords, or unprotected confidential data. _People_ (client, external vendor or employee) can also be considered a vulnerability. People's actions can significantly affect an organization's internal network. Therefore, maintaining security has to be a united effort. This requires training people to act in a secure manner. Organizations must regularly inspect for vulnerabilities within their systems. Some common vulnerabilities are:
 
 1. **ProxyLogon**: A pre-authenticated vulnerability that affects the Microsoft Exchange server. This means a threat actor can complete a user authentication process to deploy malicious code from a remote location.
-2. **ZeroLogon**: A vulnerability in Microsoft’s Netlogon authentication protocol. An authentication protocol is a way to verify a person's identity. Netlogon is a service that ensures a user’s identity before allowing access to a website's location.
-3. **Log4Shell**: Allows attackers to run Java code on someone else’s computer or leak sensitive information. It does this by enabling a remote attacker to take control of devices connected to the internet and run malicious code.
+2. **ZeroLogon**: A vulnerability in Microsoft's Netlogon authentication protocol. An authentication protocol is a way to verify a person's identity. Netlogon is a service that ensures a user's identity before allowing access to a website's location.
+3. **Log4Shell**: Allows attackers to run Java code on someone else's computer or leak sensitive information. It does this by enabling a remote attacker to take control of devices connected to the internet and run malicious code.
 4. **PetitPotam**: Affects Windows New Technology Local Area Network (LAN) Manager (NTLM). It is a theft technique that allows a LAN-based attacker to initiate an authentication request.
 5. **Security logging and monitoring failures**: Insufficient logging and monitoring capabilities that result in attackers exploiting vulnerabilities without the organization knowing it
 6. **Server-side request forgery**: Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.
