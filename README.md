@@ -656,6 +656,8 @@ There are different factors that affect the likelihood of a risk to an organizat
 4. **Multiparty Risk**: Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software designs, and inventions.
 5. **Software Compliance/Licensing**: Software that is not updated or in compliance, or patches that are not installed in a timely manner pose security risks.
 
+> The [OWASP Top 10](https://owasp.org/www-project-top-ten/) list presents the top 10 risks posed to web applications. The [NIST Cybersecurity Risks List](https://www.nist.gov/itl/smallbusinesscyber/cybersecurity-basics/cybersecurity-risks) presents various common risks posed to software.
+
 **Vulnerability**: A weakness that can be exploited by a threat. For example, an outdated firewall, software or application, weak passwords, or unprotected confidential data. _People_ (client, external vendor or employee) can also be considered a vulnerability. People's actions can significantly affect an organization's internal network. Therefore, maintaining security has to be a united effort. This requires training people to act in a secure manner.
 
 > For there to be a risk, _both_ threat _and_ vulnerability must be present.
