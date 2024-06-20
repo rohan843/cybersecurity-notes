@@ -648,6 +648,10 @@ Performing application security tests can help ensure vulnerabilities are identi
 
 **High-risk asset**: Information protected by regulations or laws, which if compromized would have a severe negative impact on an organization's finances, ongoing operations or reputation. This could include assets containing SPII, PII or intellectual property.
 
+There are different factors that affect the likelihood of a risk to an organization's assets. These include:
+
+1. **External Risk**: Anything outside an organization that has the potential to harm organizational assets, such as threat actors attempting to gain access to private information.
+
 **Vulnerability**: A weakness that can be exploited by a threat. For example, an outdated firewall, software or application, weak passwords, or unprotected confidential data. _People_ (client, external vendor or employee) can also be considered a vulnerability. People's actions can significantly affect an organization's internal network. Therefore, maintaining security has to be a united effort. This requires training people to act in a secure manner.
 
 > For there to be a risk, _both_ threat _and_ vulnerability must be present.
