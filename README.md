@@ -57,6 +57,7 @@
     - [Key Impacts of Threats, Risk and Vulnerabilities](#key-impacts-of-threats-risk-and-vulnerabilities)
   - [Layers of the Web](#layers-of-the-web)
   - [NIST's Risk Management Framework](#nists-risk-management-framework)
+  - [Common Risk Management Strategies](#common-risk-management-strategies)
 
 ## Cybersecurity
 
@@ -682,3 +683,9 @@ There are **7 steps** in the RMF:
 5. **Assess**: In this step, we determine if the established controls are implemented correctly. Analysts identify potential weaknesses and determine whether the organization's tools, procedures, controls and protocols should be changed to better manage potential risks.
 6. **Authorize**: It involves being accountable for the security and privacy risks that may exist in an organization. It could involve generating reports, developing plans of action, and establishing project milestones that are aligned to the organization's security goals.
 7. **Monitor**: It involves being aware of how the systems are operating. Assessing and maintaining technical operations are common tasks for analysts. We should know how the current systems support organizational security goals, and of any need of changes to the systems to better support those goals.
+
+## Common Risk Management Strategies
+
+The following are some common strategies used to manage risks:
+
+1. **Acceptance**: This is accepting a risk to avoid disrupting business continuity.
