@@ -653,6 +653,8 @@ There are different factors that affect the likelihood of a risk to an organizat
 1. **External Risk**: Anything outside an organization that has the potential to harm organizational assets, such as threat actors attempting to gain access to private information.
 2. **Internal Risk**: A current or former employee, vendor, or trusted partner who poses a security risk.
 3. **Legacy Systems**: These are old systems that might not be accounted for or updated, but can still impact assets, such as workstations or old mainframe systems. For example, an organization might have an old vending machine that takes credit card payments or a workstation that is still connected to the legacy accounting system.
+4. **Multiparty Risk**: Outsourcing work to third-party vendors can give them access to intellectual property, such as trade secrets, software designs, and inventions.
+5. **Software Compliance/Licensing**: Software that is not updated or in compliance, or patches that are not installed in a timely manner pose security risks.
 
 **Vulnerability**: A weakness that can be exploited by a threat. For example, an outdated firewall, software or application, weak passwords, or unprotected confidential data. _People_ (client, external vendor or employee) can also be considered a vulnerability. People's actions can significantly affect an organization's internal network. Therefore, maintaining security has to be a united effort. This requires training people to act in a secure manner.
 
