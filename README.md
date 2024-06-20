@@ -690,3 +690,5 @@ The following are some common strategies used to manage risks:
 
 1. **Acceptance**: This is accepting a risk to avoid disrupting business continuity.
 2. **Avoidance**: It involves creating a plan to avoid the risk altogether.
+3. **Transference**: Transferring a risk to a third party to manage.
+4. **Mitigation**: Lessening the impact of a known risk.
