@@ -671,6 +671,8 @@ There are different factors that affect the likelihood of a risk to an organizat
 
 > For there to be a risk, _both_ threat _and_ vulnerability must be present.
 
+Various lists such as [CISA's Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) and [NIST's National Vulnerability Database](https://nvd.nist.gov/vuln) present various new vulnerabilities.
+
 ### Impact study of Ransomware
 
 **Ransomware** is a malicious attack where threat actors encrypt an organization's data and demand payment to restore access.
