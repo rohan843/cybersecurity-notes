@@ -640,7 +640,7 @@ Performing application security tests can help ensure vulnerabilities are identi
 1. **Insider Threats**: Staff members or vendors may abuse their authorized access to obtain data that may harm an organization.
 2. **Advanced Persistent Threats (APTs)**: These occur when a threat actor maintains unauthorized access to a system for an extended period of time.
 
-**Risks**: They are different from threats. A risk is anything that can impact the confidentiality, integrity or availability of an asset. Risks can be thought of as the _likelihood_ of a threat. An example of risk to an organization is the lack of backup protocols that would allow recovery of stored information in case of any accident or security incident. Risks are commonly rated on 3 levels: **low risk asset, medium risk asset and high risk asset** depending on possible threats and value of an asset.
+**Risks**: They are different from threats. A risk is anything that can impact the confidentiality, integrity or availability of an asset. Risks can be thought of as the _likelihood_ of a threat. An example of risk to an organization is the lack of backup protocols that would allow recovery of stored information in case of any accident or security incident. Another way to understand risks is that `being late to work` is a risk, while `traffic`, `an accident`, `a flat tire`, etc. are threats. Risks are commonly rated on 3 levels: **low risk asset, medium risk asset and high risk asset** depending on possible threats and value of an asset.
 
 **Low-risk asset**: It is information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromized. This includes public information such as website content, published research data.
 
