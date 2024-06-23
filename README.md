@@ -730,3 +730,5 @@ Other security frameworks provide guidance for how to prevent, detect and respon
 An especially dangerous attack is social engineering, where employees of an organization are directly attacked. _People are the biggest threat to security._ So, frameworks can be used to create plans to increase employee awareness, and educate them about how they can protect the organization, their co-workers and themselves. An important part of this training is how to detect red flags, and how to promptly report security issues.
 
 ## Controls
+
+Security controls are used to reduce specific risks.
