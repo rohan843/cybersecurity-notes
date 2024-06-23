@@ -731,4 +731,7 @@ An especially dangerous attack is social engineering, where employees of an orga
 
 ## Controls
 
-Security controls are used to reduce specific risks.
+Security controls are used to reduce specific security risks. Three common types of controls are:
+
+1. **Encryption**: The process of converting data from a readable into an encoded format. This ensures confidentiality of sensitive data.
+2. **Authentication**: The process of verifying who someone or something is.
