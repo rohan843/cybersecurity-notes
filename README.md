@@ -719,3 +719,5 @@ The following are some common strategies used to manage risks:
 4. **Mitigation**: Lessening the impact of a known risk.
 
 ## Frameworks
+
+Security frameworks are guidelines used for building plans to help mitigate risk and threats to data and privacy.
