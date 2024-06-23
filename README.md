@@ -723,3 +723,7 @@ The following are some common strategies used to manage risks:
 Security frameworks are guidelines used for building plans to help mitigate risk and threats to data and privacy.
 
 Security involves not just the virtual space, but also the physical space. Therefore, many organizations have plans to maintain safety in the work environment.
+
+Other security frameworks provide guidance for how to prevent, detect and respond to security breaches.
+
+An especially dangerous attack is social engineering, where employees of an organization are directly attacked. _People are the biggest threat to security._
