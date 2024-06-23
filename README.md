@@ -734,4 +734,6 @@ An especially dangerous attack is social engineering, where employees of an orga
 Security controls are used to reduce specific security risks. Three common types of controls are:
 
 1. **Encryption**: The process of converting data from a readable into an encoded format. This ensures confidentiality of sensitive data.
-2. **Authentication**: The process of verifying who someone or something is.
+2. **Authentication**: The process of verifying who someone or something is. For example, passwords, multi-factor authentication, biometrics, etc.
+
+> **Vishing** is the exploitation of electronic voice communication (biometric data) to obtain sensitive information or to impersonate a known source.
