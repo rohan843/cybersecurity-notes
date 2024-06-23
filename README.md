@@ -58,6 +58,7 @@
   - [Layers of the Web](#layers-of-the-web)
   - [NIST's Risk Management Framework](#nists-risk-management-framework)
   - [Common Risk Management Strategies](#common-risk-management-strategies)
+  - [Frameworks](#frameworks)
 
 ## Cybersecurity
 
@@ -716,3 +717,5 @@ The following are some common strategies used to manage risks:
 2. **Avoidance**: It involves creating a plan to avoid the risk altogether.
 3. **Transference**: Transferring a risk to a third party to manage.
 4. **Mitigation**: Lessening the impact of a known risk.
+
+## Frameworks
