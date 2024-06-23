@@ -737,3 +737,5 @@ Security controls are used to reduce specific security risks. Three common types
 2. **Authentication**: The process of verifying who someone or something is. For example, passwords, multi-factor authentication, biometrics, etc.
 
 > **Vishing** is the exploitation of electronic voice communication (biometric data) to obtain sensitive information or to impersonate a known source.
+
+3. **Authorization**: It is the concept of granting access to specific resources within a system.
