@@ -731,7 +731,7 @@ An especially dangerous attack is social engineering, where employees of an orga
 
 ## Controls
 
-Security controls are used to reduce specific security risks. Three common types of controls are:
+Security controls are used to reduce specific security risks. Three common controls are:
 
 1. **Encryption**: The process of converting data from a readable into an encoded format. This ensures confidentiality of sensitive data.
 2. **Authentication**: The process of verifying who someone or something is. For example, passwords, multi-factor authentication, biometrics, etc.
@@ -739,3 +739,9 @@ Security controls are used to reduce specific security risks. Three common types
 > **Vishing** is the exploitation of electronic voice communication (biometric data) to obtain sensitive information or to impersonate a known source.
 
 3. **Authorization**: It is the concept of granting access to specific resources within a system.
+
+There are various kinds of controls:
+
+1. Examples of physical controls: Gates, fences, and locks, Security guards, Closed-circuit television (CCTV), surveillance cameras, and motion detectors, Access cards or badges to enter office spaces.
+2. Examples of technical controls: Firewalls, MFA, Antivirus software.
+3. Examples of administrative controls: Separation of duties, Authorization, Asset classification.
