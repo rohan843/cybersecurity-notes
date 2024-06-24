@@ -742,6 +742,6 @@ Security controls are used to reduce specific security risks. Three common contr
 
 There are various kinds of controls:
 
-1. Examples of physical controls: Gates, fences, and locks, Security guards, Closed-circuit television (CCTV), surveillance cameras, and motion detectors, Access cards or badges to enter office spaces.
-2. Examples of technical controls: Firewalls, MFA, Antivirus software.
-3. Examples of administrative controls: Separation of duties, Authorization, Asset classification.
+1. Examples of **physical controls**: Gates, fences, and locks, Security guards, Closed-circuit television (CCTV), surveillance cameras, and motion detectors, Access cards or badges to enter office spaces.
+2. Examples of **technical controls**: Firewalls, MFA, Antivirus software.
+3. Examples of **administrative controls**: Separation of duties, Authorization, Asset classification.
