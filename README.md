@@ -729,6 +729,10 @@ Other security frameworks provide guidance for how to prevent, detect and respon
 
 An especially dangerous attack is social engineering, where employees of an organization are directly attacked. _People are the biggest threat to security._ So, frameworks can be used to create plans to increase employee awareness, and educate them about how they can protect the organization, their co-workers and themselves. An important part of this training is how to detect red flags, and how to promptly report security issues.
 
+**Cyber threat framework** is a framework developed by the U.S. government to provide a common language for describing and communicating information about cyber threat activity. It helps cybersecurity professionals analyze and share information more efficiently. This allows organizations to improve their response to the constantly evolving cybersecurity landscape and threat actors' many tactics and techniques.
+
+**ISO/IEC 27001** is an internationally recognized and used framework. The ISO 27000 family of standards enables organizations of all sectors and sizes to manage the security of assets, such as financial information, intellectual property, employee data, and information entrusted to third parties. This framework outlines requirements for an information security management system, best practices, and controls that support an organization’s ability to manage risks. Although the ISO/IEC 27001 framework does not require the use of specific controls, it does provide a collection of controls that organizations can use to improve their security posture.
+
 ## Controls
 
 Security controls are used to reduce specific security risks. Three common controls are:
