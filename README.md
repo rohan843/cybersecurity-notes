@@ -760,3 +760,5 @@ It is a model that helps inform how organizations consider risk when setting up 
 **Integrity**: Data is correct, authentic and reliable. For e.g., encryption to protect data from tampering.
 
 **Availability**: Data is available to those who are authorized to access it.
+
+If we work for an organization that has large amounts of private data like a bank, the principle of confidentiality is essential because the bank must keep people's personal and financial information safe. The principle of integrity is also a priority. For example, if a person's spending habits or purchasing locations change dramatically, the bank will likely disable access to the account until they can verify that the account owner, not a threat actor, is actually the one making purchases. The availability principle is also critical. Banks put a lot of effort into making sure that people can access their account information easily on the web. And to make sure that information is protected from threat actors, banks use a validation process to help minimize damage if they suspect that customer accounts have been compromised.
