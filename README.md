@@ -753,7 +753,7 @@ There are various kinds of controls:
 
 ## The CIA Triad
 
-It is a model that helps inform how organizations consider risk when setting up systems and security policies.
+It is a model that helps inform how organizations consider risk when setting up systems and security policies. Maintaining an acceptable level of risk and ensuring systems and policies are designed with these elements in mind helps establish a successful security posture.
 
 **Confidentiality**: Only authorized users can access specific assets or data. For e.g., strict access controls and access provisioning on a need-to-know basis.
 
