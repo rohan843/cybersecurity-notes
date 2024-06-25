@@ -752,3 +752,5 @@ There are various kinds of controls:
 3. Examples of **administrative controls**: Separation of duties, Authorization, Asset classification.
 
 ## The CIA Triad
+
+It is a model that helps inform how organizations consider risk when setting up systems and security policies.
