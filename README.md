@@ -755,7 +755,7 @@ There are various kinds of controls:
 
 It is a model that helps inform how organizations consider risk when setting up systems and security policies.
 
-**Confidentiality**: Only authorized users can access specific assets or data. For e.g., strict access controls.
+**Confidentiality**: Only authorized users can access specific assets or data. For e.g., strict access controls and access provisioning on a need-to-know basis.
 
 **Integrity**: Data is correct, authentic and reliable. For e.g., encryption to protect data from tampering.
 
