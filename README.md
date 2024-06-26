@@ -770,11 +770,11 @@ It is a voluntary framework that consists of standards, guidelines and best prac
 
 It consists of 5 important core functions:
 
-1. Identify
-2. Protect
-3. Detect
-4. Respond
-5. Recover
+1. **Identify**: It involves the management of the cybersecurity risk and its effect on an organization's people and assets. This can involve monitoring the devices in an organization's internal network to identify potential security issues.
+2. **Protect**: It is the strategy used to protect an organization through the implementation of policies, procedures, training and tools that help mitigate cybersecurity threats.
+3. **Detect**: 
+4. **Respond**: 
+5. **Recover**: 
 
 Consider that one day we are notified about a compromized workstation. We first _identify_ the workstation and discover that there's an unknown device plugged into it. We block the device remotely to remove any potential threat and _protect_ the organization. Then, we remove the workstation to prevent the spread of the damage, and use tools to _detect_ any additional threat actor behaviour, and identify the unknown device. We then _respond_ by investigating the incident to determine who used the unknown device, how the threat occurred, what was affected, and where the attack originated. Finally, we work to _recover_ any files or data that were affected and correct any damage the threat caused to the workstation itself.
 
