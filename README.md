@@ -778,3 +778,5 @@ It consists of 5 important core functions:
 3. Detect
 4. Respond
 5. Recover
+
+Consider that one day we are notified about a compromized workstation. We first _identify_ the workstation and discover that there's an unknown device plugged into it. We block the device remotely to remove any potential threat and _protect_ the organization. Then, we remove the workstation to prevent the spread of the damage, and use tools to _detect_ any additional threat actor behaviour, and identify the unknown device. We then _respond_ by investigating the incident to determine who used the unknown device, how the threat occurred, what was affected, and where the attack originated.
