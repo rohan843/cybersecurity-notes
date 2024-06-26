@@ -61,8 +61,7 @@
   - [Frameworks](#frameworks)
   - [Controls](#controls)
   - [The CIA Triad](#the-cia-triad)
-  - [NIST Frameworks](#nist-frameworks)
-    - [NIST Cybersecurity Framework (CSF)](#nist-cybersecurity-framework-csf)
+  - [NIST Cybersecurity Framework (CSF)](#nist-cybersecurity-framework-csf)
 
 ## Cybersecurity
 
@@ -765,9 +764,7 @@ It is a model that helps inform how organizations consider risk when setting up 
 
 If we work for an organization that has large amounts of private data like a bank, the principle of confidentiality is essential because the bank must keep people's personal and financial information safe. The principle of integrity is also a priority. For example, if a person's spending habits or purchasing locations change dramatically, the bank will likely disable access to the account until they can verify that the account owner, not a threat actor, is actually the one making purchases. The availability principle is also critical. Banks put a lot of effort into making sure that people can access their account information easily on the web. And to make sure that information is protected from threat actors, banks use a validation process to help minimize damage if they suspect that customer accounts have been compromised.
 
-## NIST Frameworks
-
-### NIST Cybersecurity Framework (CSF)
+## NIST Cybersecurity Framework (CSF)
 
 It is a voluntary framework that consists of standards, guidelines and best practices to manage cybersecurity risks.
 
