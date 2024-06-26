@@ -771,7 +771,7 @@ It is a voluntary framework that consists of standards, guidelines and best prac
 It consists of 5 important core functions:
 
 1. **Identify**: It involves the management of the cybersecurity risk and its effect on an organization's people and assets. This can involve monitoring the devices in an organization's internal network to identify potential security issues.
-2. **Protect**: It is the strategy used to protect an organization through the implementation of policies, procedures, training and tools that help mitigate cybersecurity threats.
+2. **Protect**: It is the strategy used to protect an organization through the implementation of policies, procedures, training and tools that help mitigate cybersecurity threats. For example, to protect against unknown threats and attacks, we may study historical data and make improvements to policies and procedures.
 3. **Detect**: 
 4. **Respond**: 
 5. **Recover**: 
