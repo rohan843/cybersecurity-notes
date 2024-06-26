@@ -61,6 +61,7 @@
   - [Frameworks](#frameworks)
   - [Controls](#controls)
   - [The CIA Triad](#the-cia-triad)
+  - [NIST Frameworks](#nist-frameworks)
 
 ## Cybersecurity
 
@@ -755,10 +756,12 @@ There are various kinds of controls:
 
 It is a model that helps inform how organizations consider risk when setting up systems and security policies. Maintaining an acceptable level of risk and ensuring systems and policies are designed with these elements in mind helps establish a successful security posture.
 
-**Confidentiality**: Only authorized users can access specific assets or data. For e.g., strict access controls and access provisioning on a need-to-know basis. Confidentiality can be enhanced through the implementation of design principles, such as the principle of least privilege. The principle of least privilege limits users' access to only the information they need to complete work-related tasks. Limiting access is one way of maintaining the confidentiality and security of private data. 
+**Confidentiality**: Only authorized users can access specific assets or data. For e.g., strict access controls and access provisioning on a need-to-know basis. Confidentiality can be enhanced through the implementation of design principles, such as the principle of least privilege. The principle of least privilege limits users' access to only the information they need to complete work-related tasks. Limiting access is one way of maintaining the confidentiality and security of private data.
 
 **Integrity**: Data is correct, authentic and reliable. For e.g., encryption to protect data from tampering. One way to verify data integrity is through cryptography, which is used to transform data so unauthorized parties cannot read or tamper with it (NIST, 2022). Another example of how an organization might implement integrity is by enabling encryption, which is the process of converting data from a readable format to an encoded format. Encryption can be used to prevent access and ensure data, such as messages on an organization's internal chat platform, cannot be tampered with.
 
 **Availability**: Data is available to those who are authorized to access it. When a system adheres to both availability and confidentiality principles, data can be used when needed. In the workplace, this could mean that the organization allows remote employees to access its internal network to perform their jobs. It’s worth noting that access to data on the internal network is still limited, depending on what type of access employees need to do their jobs. If, for example, an employee works in the organization’s accounting department, they might need access to corporate accounts but not data related to ongoing development projects.
 
 If we work for an organization that has large amounts of private data like a bank, the principle of confidentiality is essential because the bank must keep people's personal and financial information safe. The principle of integrity is also a priority. For example, if a person's spending habits or purchasing locations change dramatically, the bank will likely disable access to the account until they can verify that the account owner, not a threat actor, is actually the one making purchases. The availability principle is also critical. Banks put a lot of effort into making sure that people can access their account information easily on the web. And to make sure that information is protected from threat actors, banks use a validation process to help minimize damage if they suspect that customer accounts have been compromised.
+
+## NIST Frameworks
