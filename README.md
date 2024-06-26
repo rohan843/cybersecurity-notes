@@ -62,7 +62,7 @@
   - [Controls](#controls)
   - [The CIA Triad](#the-cia-triad)
   - [NIST Frameworks](#nist-frameworks)
-    - [NIST Cybersecurity Framework](#nist-cybersecurity-framework)
+    - [NIST Cybersecurity Framework (CSF)](#nist-cybersecurity-framework-csf)
 
 ## Cybersecurity
 
@@ -767,6 +767,14 @@ If we work for an organization that has large amounts of private data like a ban
 
 ## NIST Frameworks
 
-### NIST Cybersecurity Framework
+### NIST Cybersecurity Framework (CSF)
 
 It is a voluntary framework that consists of standards, guidelines and best practices to manage cybersecurity risks.
+
+It consists of 5 important core functions:
+
+1. Identify
+2. Protect
+3. Detect
+4. Respond
+5. Recover
