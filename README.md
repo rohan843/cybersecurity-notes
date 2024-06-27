@@ -784,3 +784,7 @@ Consider that one day we are notified about a compromized workstation. We first 
 ## OWASP Security Principles
 
 > OWASP stands for **Open Web Applications Security Project**.
+
+The following are the OWASP security principles:
+
+1. Minimize the attack surface area.
