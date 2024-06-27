@@ -795,4 +795,4 @@ The following are the OWASP security principles:
 
 2. **Principle of least priviledge.** This principle requires that users have the least amount of access required to perform their everyday tasks. The main reason that access is limited is to reduce the amount of damage a security breach could cause. So, if a threat actor gains an employee's credentials, they may not have the required access to carry out their attack.
 
-3. **Defence **
+3. **Defence in depth.**
