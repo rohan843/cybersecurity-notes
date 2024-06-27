@@ -789,4 +789,4 @@ The following are the OWASP security principles:
 
 1. Minimize the attack surface area.
 
-**Attack surface** refers to all the potential vulnerabilities that a threat actor could exploit, like attack vectors (pathways used by attackers to penetrate security defenses)
+**Attack surface** refers to all the potential vulnerabilities that a threat actor could exploit, like attack vectors (pathways used by attackers to penetrate security defenses).
