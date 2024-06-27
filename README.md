@@ -792,3 +792,5 @@ The following are the OWASP security principles:
 **Attack surface** refers to all the potential vulnerabilities that a threat actor could exploit, like attack vectors (pathways used by attackers to penetrate security defenses). Common attack vectors include phishing emails and weak passwords.
 
 > To minimise the attack surface and and avoid incidents from these types of vectors, security teams might disable software features, restrict who can access certain assets, or establish more complex password requirements.
+
+2. Principle of least priviledge. This principle requires that users have the least amount of access required to perform their everyday tasks.
