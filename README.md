@@ -782,3 +782,5 @@ Consider that one day we are notified about a compromized workstation. We first 
 > The NIST S.P. 800-53 specification provides a framework for use within the US government, and various guidelines for companies working alongside the US government.
 
 ## OWASP Security Principles
+
+> OWASP stands for **Open Web Applications Security Project**.
