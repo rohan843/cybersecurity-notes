@@ -839,6 +839,11 @@ Some common elements of security audits are:
    2. Technical controls: These are hardware and software solutions used to protect assets, such as the use of intrusion detection systems or encryption.
    3. Physical controls: These refer to measures put in place to prevent physical access to protected assets, such as surveillance cameras and locks.
 6. **Assessing compliance**: This involves ensuring the organization is compliant with relevant laws.
-7. **Communicating results to stakeholders**: After the completion of an internal security audit, results and recommendations need to be communicated to stakeholders.
+7. **Communicating results to stakeholders**: After the completion of an internal security audit, results and recommendations need to be communicated to stakeholders. This communication should:
+   1. Summarize the scope and goals of the audit.
+   2. List existing risks.
+   3. Note how quickly those risks need to be addressed.
+   4. Identify compliance regulations the organization needs to adhere to.
+   5. Provide recommendations for improving the organization's security posture.
 
 > [This](./Audit%20Scope%20and%20Goals%20Example.pdf) document presents a sample outline of an organization's security audit.
