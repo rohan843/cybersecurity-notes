@@ -824,7 +824,7 @@ An internal security audit is typically conducted by a team of people, that migh
 
 Some common elements of security audits are:
 
-1. Establishing the scope and goals of the audit.
+1. **Establishing the scope and goals of the audit**: **Scope** refers to the specific criteria of an internal security audit. Organizations need to identify people, assets, policies, procedures and technologies that might impact an organization's security posture.
 2. Conducting a risk assessment of the organization's assets.
 3. Completing a controls assessment.
 4. Assessing compliance.
