@@ -813,3 +813,5 @@ The following are the OWASP security principles:
 > The security of key systems should not rely on keeping details hidden.
 
 ## Security Audits
+
+A security audit is a review of an organization's security controls, policies and procedures against a set of expectations.
