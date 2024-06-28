@@ -63,6 +63,7 @@
   - [The CIA Triad](#the-cia-triad)
   - [NIST Cybersecurity Framework (CSF)](#nist-cybersecurity-framework-csf)
   - [OWASP Security Principles](#owasp-security-principles)
+  - [Security Audits](#security-audits)
 
 ## Cybersecurity
 
@@ -810,3 +811,5 @@ The following are the OWASP security principles:
 10. **Avoid security by obscurity.** The security of an application should not rely on keeping the source code secret. Its security should rely upon many other factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls.
 
 > The security of key systems should not rely on keeping details hidden.
+
+## Security Audits
