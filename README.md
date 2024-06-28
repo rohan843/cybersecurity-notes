@@ -829,3 +829,5 @@ Some common elements of security audits are:
 3. Completing a controls assessment.
 4. Assessing compliance.
 5. Communicating results to stakeholders.
+
+> [This](./Audit%20Scope%20and%20Goals%20Example.pdf) document presents a sample outline of an organization's security audit.
