@@ -836,7 +836,7 @@ Some common elements of security audits are:
 
 5. **Completing a controls assessment**: A controls assessment involves closely reviewing an organization's existing assets, then evaluating potential risks to those assets, to ensure internal controls and processes are effective. A sub-task in this step could be dividing controls into the categories:
    1. Administrative controls: They are related to the "human" component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies.
-   2. Technical controls
+   2. Technical controls: These are hardware and software solutions used to protect assets, such as the use of intrusion detection systems or encryption.
    3. Physical controls
 6. Assessing compliance
 7. Communicating results to stakeholders
