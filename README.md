@@ -814,4 +814,4 @@ The following are the OWASP security principles:
 
 ## Security Audits
 
-A security audit is a review of an organization's security controls, policies and procedures against a set of expectations.
+A security audit is a review of an organization's security controls, policies and procedures against a set of expectations. These can be **internal or external**
