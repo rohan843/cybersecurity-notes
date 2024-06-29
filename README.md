@@ -845,7 +845,7 @@ It's necessary to create an audit checklist before conducting an audit. Some com
    2. Note how the audit will help the organization achieve its desired goals.
    3. Indicate how often an audit should be performed.
    4. Include an evaluation of organizational policies, protocols, and procedures to make sure they are working as intended and being implemented by employees.
-2. **Conducting a risk assessment of the organization's assets**: This step is focussed on identifying potential risks, threats and vulnerabilities. It helps organizations measure what security measures should be implemented and monitored to ensure the safety of assets.
+2. **Conducting a risk assessment of the organization's assets**: This step is focussed on identifying potential risks (related to budget, controls, internal processes, and external standards (i.e., regulations)), threats and vulnerabilities. It helps organizations measure what security measures should be implemented and monitored to ensure the safety of assets.
 
 > Before proceeding to the next steps, we need to review the scope and goals, along with the risk assessment. Ask the following questions:
 >
