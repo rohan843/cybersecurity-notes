@@ -854,6 +854,9 @@ Some common elements of security audits are:
    1. Administrative/Managerial controls: They are related to the "human" component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies.
    2. Technical controls: These are hardware and software solutions used to protect assets, such as the use of intrusion detection systems or encryption.
    3. Physical controls: These refer to measures put in place to prevent physical access to protected assets, such as surveillance cameras and locks.
+
+> [This](./Control%20categories.pdf) document explains different types of controls in depth.
+
 6. **Assessing compliance**: This involves ensuring the organization is compliant with relevant laws.
 7. **Communicating results to stakeholders**: After the completion of an internal security audit, results and recommendations need to be communicated to stakeholders. This communication should:
    1. Summarize the scope and goals of the audit.
