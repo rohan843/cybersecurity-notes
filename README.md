@@ -814,7 +814,11 @@ The following are the OWASP security principles:
 
 ## Security Audits
 
-A security audit is a review of an organization's security controls, policies and procedures against a set of expectations. These can be **internal or external**.
+A security audit is a review of an organization's security controls, policies and procedures against a set of expectations. Audits are independent reviews that evaluate whether an organization is meeting internal and external criteria. Internal criteria include outlined policies, procedures, and best practices. External criteria include regulatory compliance, laws, and federal regulations. 
+
+Additionally, a security audit can be used to assess an organization's established security controls.
+
+Audits can be **internal or external**.
 
 An internal security audit is typically conducted by a team of people, that might include the organization's compliance officer, security manager and other security team members. Internal security audits help improve an organization's security posture and help in avoiding fines from governing agencies due to a lack of compliance. The major purposes of internal security audits are:
 
