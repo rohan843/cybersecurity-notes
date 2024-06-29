@@ -854,15 +854,15 @@ It's necessary to create an audit checklist before conducting an audit. Some com
 > 3.  Are current controls sufficient to protect those assets?
 > 4.  If not, what controls and compliance regulations need to be implemented?
 
-5. **Completing a controls assessment**: A controls assessment involves closely reviewing an organization's existing assets, then evaluating potential risks to those assets, to ensure internal controls and processes are effective. A sub-task in this step could be dividing controls into the categories:
+3. **Completing a controls assessment**: A controls assessment involves closely reviewing an organization's existing assets, then evaluating potential risks to those assets, to ensure internal controls and processes are effective. A sub-task in this step could be dividing controls into the categories:
    1. Administrative/Managerial controls: They are related to the "human" component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies.
    2. Technical controls: These are hardware and software solutions used to protect assets, such as the use of intrusion detection systems or encryption.
    3. Physical controls: These refer to measures put in place to prevent physical access to protected assets, such as surveillance cameras and locks.
 
 > [This](./Control%20categories.pdf) document explains different types of controls in depth.
 
-6. **Assessing compliance**: This involves ensuring the organization is compliant with relevant laws.
-7. **Communicating results to stakeholders**: After the completion of an internal security audit, results and recommendations need to be communicated to stakeholders. This communication should:
+4. **Assessing compliance**: This involves ensuring the organization is compliant with relevant laws.
+5. **Communicating results to stakeholders**: After the completion of an internal security audit, results and recommendations need to be communicated to stakeholders. This communication should:
    1. Summarize the scope and goals of the audit.
    2. List existing risks.
    3. Note how quickly those risks need to be addressed.
