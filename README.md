@@ -830,6 +830,8 @@ Factors that determine the types of audits an organization implements include:
 4. A business’s geographical location
 5. A business decision to adhere to a specific regulatory compliance
 
+Frameworks such as the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) and the international standard for information security (ISO 27000) series are designed to help organizations prepare for regulatory compliance security audits. By adhering to these and other relevant frameworks, organizations can save time when conducting external and internal audits. Additionally, frameworks, when used alongside controls, can support organizations’ ability to align with regulatory compliance requirements and standards.
+
 An internal security audit is typically conducted by a team of people, that might include the organization's compliance officer, security manager and other security team members. Internal security audits help improve an organization's security posture and help in avoiding fines from governing agencies due to a lack of compliance. The major purposes of internal security audits are:
 
 1. Identify organizational risk.
@@ -849,7 +851,7 @@ Some common elements of security audits are:
 > 4.  If not, what controls and compliance regulations need to be implemented?
 
 5. **Completing a controls assessment**: A controls assessment involves closely reviewing an organization's existing assets, then evaluating potential risks to those assets, to ensure internal controls and processes are effective. A sub-task in this step could be dividing controls into the categories:
-   1. Administrative controls: They are related to the "human" component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies.
+   1. Administrative/Managerial controls: They are related to the "human" component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies.
    2. Technical controls: These are hardware and software solutions used to protect assets, such as the use of intrusion detection systems or encryption.
    3. Physical controls: These refer to measures put in place to prevent physical access to protected assets, such as surveillance cameras and locks.
 6. **Assessing compliance**: This involves ensuring the organization is compliant with relevant laws.
