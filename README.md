@@ -820,6 +820,16 @@ Additionally, a security audit can be used to assess an organization's establish
 
 Audits can be **internal or external**.
 
+> The frequency of audits is dependent on local laws and federal compliance regulations.
+
+Factors that determine the types of audits an organization implements include: 
+
+1. Industry type
+2. Organization size
+3. Ties to the applicable government regulations
+4. A business’s geographical location
+5. A business decision to adhere to a specific regulatory compliance
+
 An internal security audit is typically conducted by a team of people, that might include the organization's compliance officer, security manager and other security team members. Internal security audits help improve an organization's security posture and help in avoiding fines from governing agencies due to a lack of compliance. The major purposes of internal security audits are:
 
 1. Identify organizational risk.
