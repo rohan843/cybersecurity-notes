@@ -814,7 +814,7 @@ The following are the OWASP security principles:
 
 ## Security Audits
 
-A security audit is a review of an organization's security controls, policies and procedures against a set of expectations. Audits are independent reviews that evaluate whether an organization is meeting internal and external criteria. Internal criteria include outlined policies, procedures, and best practices. External criteria include regulatory compliance, laws, and federal regulations. 
+A security audit is a review of an organization's security controls, policies and procedures against a set of expectations. Audits are independent reviews that evaluate whether an organization is meeting internal and external criteria. Internal criteria include outlined policies, procedures, and best practices. External criteria include regulatory compliance, laws, and federal regulations.
 
 Additionally, a security audit can be used to assess an organization's established security controls.
 
@@ -822,7 +822,7 @@ Audits can be **internal or external**.
 
 > The frequency of audits is dependent on local laws and federal compliance regulations.
 
-Factors that determine the types of audits an organization implements include: 
+Factors that determine the types of audits an organization implements include:
 
 1. Industry type
 2. Organization size
@@ -840,7 +840,11 @@ An internal security audit is typically conducted by a team of people, that migh
 
 It's necessary to create an audit checklist before conducting an audit. Some common elements of security audits and associated checklists are:
 
-1. **Establishing the scope and goals of the audit**: **Scope** refers to the specific criteria of an internal security audit. Organizations need to identify people, assets, policies, procedures and technologies that might impact an organization's security posture. **Goals** are an outline of the organization's security objectives, i.e., what they want to acheive in order to improve their security posture.
+1. **Establishing the scope and goals of the audit**: **Scope** refers to the specific criteria of an internal security audit. Organizations need to identify people, assets, policies, procedures and technologies that might impact an organization's security posture. **Goals** are an outline of the organization's security objectives, i.e., what they want to acheive in order to improve their security posture. This section of the audit checklist should:
+   1. List assets that will be assessed (e.g., firewalls are configured correctly, PII is secure, physical assets are locked, etc.).
+   2. Note how the audit will help the organization achieve its desired goals.
+   3. Indicate how often an audit should be performed.
+   4. Include an evaluation of organizational policies, protocols, and procedures to make sure they are working as intended and being implemented by employees.
 2. **Conducting a risk assessment of the organization's assets**: This step is focussed on identifying potential risks, threats and vulnerabilities. It helps organizations measure what security measures should be implemented and monitored to ensure the safety of assets.
 
 > Before proceeding to the next steps, we need to review the scope and goals, along with the risk assessment. Ask the following questions:
