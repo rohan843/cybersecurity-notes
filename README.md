@@ -853,6 +853,9 @@ It's necessary to create an audit checklist before conducting an audit. Some com
 > 2.  Which assets are most at risk?
 > 3.  Are current controls sufficient to protect those assets?
 > 4.  If not, what controls and compliance regulations need to be implemented?
+>
+> Now, we actually conduct the audit, where we assess the security of the identified assets listed in the audit scope.
+> 
 
 3. **Completing a controls assessment**: A controls assessment involves closely reviewing an organization's existing assets, then evaluating potential risks to those assets, to ensure internal controls and processes are effective. A sub-task in this step could be dividing controls into the categories:
    1. Administrative/Managerial controls: They are related to the "human" component of cybersecurity. They include policies and procedures that define how an organization manages data, such as the implementation of password policies.
