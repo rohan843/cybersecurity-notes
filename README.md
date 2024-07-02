@@ -800,7 +800,7 @@ The following are the OWASP security principles:
 
 > Critical actions should rely on multiple people, each of whom follow the principle of least privilege.
 
-5. **Keep security simple.** It means that when implementing security controls, unnecessarily complicated solutions should be avoided because the can become unmanageable. The more complex security controls are, the harder it is for people to work collaboratively.
+5. **Keep security simple.** It means that when implementing security controls, unnecessarily complicated solutions should be avoided because they can become unmanageable. The more complex security controls are, the harder it is for people to work collaboratively.
 6. **Fix security issues correctly.** When a security incident occurs, it is important for security professionals to identify the root cause quickly. Thereon, it is important to correct any identified vulnerabilities and conduct tests to ensure repairs are successful. An example of an issue is a weak password to access an organization's wifi as it could lead to a breach. To fix this issue, stricter password policies could be put in place.
 
 > When security incidents occur, identify the root cause, contain the impact, identify vulnerabilities, and conduct tests to ensure that remediation is successful.
