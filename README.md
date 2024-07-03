@@ -64,6 +64,7 @@
   - [NIST Cybersecurity Framework (CSF)](#nist-cybersecurity-framework-csf)
   - [OWASP Security Principles](#owasp-security-principles)
   - [Security Audits](#security-audits)
+  - [Logs](#logs)
 
 ## Cybersecurity
 
@@ -873,3 +874,7 @@ It's necessary to create an audit checklist before conducting an audit. Some com
    5. Provide recommendations for improving the organization's security posture.
 
 > [This](./Audit%20Scope%20and%20Goals%20Example.pdf) document presents a sample outline of an organization's security audit. And [this](./Sample%20Audit.pdf) document presents a sample of an audit.
+
+## Logs
+
+A log is a record of events that occur within an organization's systems and networks.
