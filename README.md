@@ -879,6 +879,6 @@ It's necessary to create an audit checklist before conducting an audit. Some com
 
 A log is a record of events that occur within an organization's systems and networks. Three common sources of logs are:
 
-1. Firewall logs
-2. Network logs
-3. Server logs
+1. **Firewall logs**: These are records of attempted or established connections for incoming traffic for the internet. It also includes outbound requests to the internet from within the network.
+2. **Network logs**: 
+3. **Server logs**: 
