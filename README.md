@@ -881,4 +881,4 @@ A log is a record of events that occur within an organization's systems and netw
 
 1. **Firewall logs**: These are records of attempted or established connections for incoming traffic for the internet. It also includes outbound requests to the internet from within the network.
 2. **Network logs**: These are records of all computers and devices that enter and leave the network. It also records connections between devices and services on the network.
-3. **Server logs**: 
+3. **Server logs**: These are records of events related to services, such as websites, emails or file shares. It includes actions such as login, password and username requests.
