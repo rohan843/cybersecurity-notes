@@ -892,4 +892,4 @@ SIEM tools also allow us to create dashboards. Dashboards provide consolidated i
 
 **Metrics** are key technical attributes, such as response time, availability, and failure rate, which are used to assess the performance of a software application.
 
-SIEM tools also provide relevent metrics to various stakeholders.
+SIEM dashboards also provide relevent metrics to various stakeholders. The metrics and data can be customized to present the most useful view to various stakeholders.
