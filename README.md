@@ -886,4 +886,4 @@ A log is a record of events that occur within an organization's systems and netw
 
 ## Security Information and Event Management (SIEM) Tools
 
-A SIEM tool is an application that collects and analyzes log data to monitor critical activities in an organization. It provides real-time visibility, event monitoring and analysis, and automated results.
+A SIEM tool is an application that collects and analyzes log data to monitor critical activities in an organization. It provides real-time visibility, event monitoring and analysis, and automated results. It also stores all log data in a centralized location.
