@@ -893,3 +893,5 @@ SIEM tools also allow us to create dashboards. Dashboards provide consolidated i
 **Metrics** are key technical attributes, such as response time, availability, and failure rate, which are used to assess the performance of a software application.
 
 SIEM dashboards also provide relevent metrics to various stakeholders. The metrics and data can be customized to present the most useful view to various stakeholders.
+
+SIEM tools can function in cloud-hosted and cloud-native deployments. **Cloud-hosted SIEM tools** are operated by vendors who are responsible for maintaining and managing the infrastructure required to use the tools. Cloud-hosted tools are simply accessed through the internet and are an ideal solution for organizations that don’t want to invest in creating and maintaining their own infrastructure. **Cloud-native SIEM tools** are also fully maintained and managed by vendors and accessed through the internet. However, cloud-native tools are designed to take full advantage of cloud computing capabilities, such as availability, flexibility, and scalability.
