@@ -903,4 +903,4 @@ The evolution of SIEM tools is expected to continue in order to accommodate the 
 There are **different types of SIEM tools**:
 
 1. **Self-hosted SIEM tools**: They require organizations to install, operate and maintain the tool using their own physical infrastructure, such as server capacity. The organization's IT department manages and maintains these applications, rather that a third party vendor. They are **ideal when an organization is required to maintain physical control over confidential data**.
-2. **Cloud-hosted SIEM tools**: They are maintained and managed by the SIEM providers, making them accessible through the Internet.
+2. **Cloud-hosted SIEM tools**: They are maintained and managed by the SIEM providers, making them accessible through the Internet. They are **ideal for organizations that don't want to invest in creating and maintaining their own infrastructure**.
