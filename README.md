@@ -914,4 +914,4 @@ There are **different types of SIEM tools**:
 
 **Splunk Cloud** is a cloud-hosted tool used to collect, search and monitor log data. It is useful for organizations running in hybrid or cloud-only environments.
 
-**Chronicle** is a cloud-native tool designed to retain, analyse and search data.
+**Chronicle** is a cloud-native tool designed to retain, analyse and search data. Cloud-native means that the service provides more resources, controls and ease than in other cloud-hosted tools.
