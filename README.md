@@ -907,10 +907,12 @@ There are **different types of SIEM tools**:
 2. **Cloud-hosted SIEM tools**: They are maintained and managed by the SIEM providers, making them accessible through the Internet. They are **ideal for organizations that don't want to invest in creating and maintaining their own infrastructure**.
 3. **Hybrid solution**: An organization may choose to use a combination to self-hosted and cloud hosted tools. This allows organizations to **leverage the benefits of the cloud, while also maintaining control over confidential data**.
 
-> Splunk Enterprise, Splunk Chronicle and Chronicle are commonly used SIEM solutions used by organizations.
+> Splunk Enterprise, Splunk Cloud and Chronicle are commonly used SIEM solutions used by organizations.
 
 ### Splunk
 
 Splunk is a data analysis platform, and Splunk Enterprise provides SIEM solutions.
 
 **Splunk Enterprise** is a self-hosted tool used to retain, analyze and search an organization's log data to provide security information and alerts in real time.
+
+**Splunk Cloud** is a cloud-hosted tool used to collect, search and monitor log data.
