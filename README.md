@@ -915,4 +915,4 @@ Splunk is a data analysis platform, and Splunk Enterprise provides SIEM solution
 
 **Splunk Enterprise** is a self-hosted tool used to retain, analyze and search an organization's log data to provide security information and alerts in real time.
 
-**Splunk Cloud** is a cloud-hosted tool used to collect, search and monitor log data.
+**Splunk Cloud** is a cloud-hosted tool used to collect, search and monitor log data. It is useful for organizations running in hybrid or cloud-only environments.
