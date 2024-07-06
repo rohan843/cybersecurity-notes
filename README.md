@@ -952,6 +952,13 @@ The risk analysis dashboard helps analysts identify risk for each risk object (e
 
 **Chronicle** is a cloud-native tool designed to retain, analyse and search data. Cloud-native means that the service provides more resources, controls and ease than in other cloud-hosted tools.
 
+Chronicle allows us to collect and analyze log data according to:
+
+1. A specific asset
+2. A domain name
+3. A user
+4. An IP address
+
 #### Enterprise insights dashboard
 
 The enterprise insights dashboard highlights recent alerts. It identifies suspicious domain names in logs, known as indicators of compromise (IOCs). Each result is labeled with a confidence score to indicate the likelihood of a threat. It also provides a severity level that indicates the significance of each threat to the organization. A security analyst might use this dashboard to monitor login or data access attempts related to a critical asset—like an application or system—from unusual locations or devices.
