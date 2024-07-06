@@ -66,6 +66,8 @@
   - [Security Audits](#security-audits)
   - [Logs](#logs)
   - [Security Information and Event Management (SIEM) Tools](#security-information-and-event-management-siem-tools-1)
+    - [Splunk](#splunk)
+    - [Chronicle](#chronicle)
 
 ## Cybersecurity
 
@@ -912,10 +914,14 @@ There are **different types of SIEM tools**:
 
 > Splunk Enterprise, Splunk Cloud and Chronicle are commonly used SIEM solutions used by organizations.
 
+### Splunk
+
 **Splunk** is a data analysis platform, and Splunk Enterprise provides SIEM solutions.
 
 **Splunk Enterprise** is a self-hosted tool used to retain, analyze and search an organization's log data to provide security information and alerts in real time.
 
 **Splunk Cloud** is a cloud-hosted tool used to collect, search and monitor log data. It is useful for organizations running in hybrid or cloud-only environments.
+
+### Chronicle
 
 **Chronicle** is a cloud-native tool designed to retain, analyse and search data. Cloud-native means that the service provides more resources, controls and ease than in other cloud-hosted tools.
