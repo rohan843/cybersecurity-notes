@@ -884,6 +884,10 @@ A log is a record of events that occur within an organization's systems and netw
 2. **Network logs**: These are records of all computers and devices that enter and leave the network. It also records connections between devices and services on the network.
 3. **Server logs**: These are records of events related to services, such as websites, emails or file shares. It includes actions such as login, password and username requests.
 
+> **Suricata** is an open-source network analysis and threat detection software. It is used to inspect network traffic to identify suspicious behavior and generate network data logs. The detection software finds activity across users, computers, or Internet Protocol (IP) addresses to help uncover potential threats, risks, or vulnerabilities.
+>
+> Suricata was developed by the Open Information Security Foundation (OISF). OISF is dedicated to maintaining open-source use of the Suricata project to ensure it's free and publicly available. Suricata is widely used in the public and private sector, and it integrates with many SIEM tools and other security tools.
+
 ## Security Information and Event Management (SIEM) Tools
 
 A SIEM tool is an application that collects and analyzes log data to monitor critical activities in an organization. It provides real-time visibility, event monitoring and analysis, and automated results. It also stores all log data in a centralized location.
