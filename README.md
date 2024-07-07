@@ -999,4 +999,4 @@ Different types of playbooks are used. These include playbooks for incident resp
 Incident response playbooks guide the incident response process in 6 phases:
 
 1. **Preparation**: It involves organizations preparing to mitigate the risk, likelihood and impact of a security incident by documenting procedures, establishing staffing plans and educating users. For example, organizations can create incident response plans and procedures that outline the roles and responsibilities of each security team member.
-2. **Detection and analysis**: The objective of this phase is to detect and analyze events using defines processes and technology.
+2. **Detection and analysis**: The objective of this phase is to detect and analyze events using defines processes and technology. It helps security analysts determine whether a breach has occurred, and define its magnitude.
