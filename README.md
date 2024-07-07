@@ -995,3 +995,8 @@ Playbooks ensure people follow a consistent list of actions in a prescribed way,
 Different types of playbooks are used. These include playbooks for incident response, security alerts, teams-specific, and product-specific purposes. Here, we focus on an incident response playbook.
 
 **Incident response** is an organization's quick attempt to identify an attack, contain the damage and correct the effects of a security breach.
+
+Incident response playbooks guide the incident response process in 6 phases:
+
+1. **Preparation**: It involves organizations preparing to mitigate the risk, likelihood and impact of a security incident by documenting procedures, establishing staffing plans and educating users. For example, organizations can create incident response plans and procedures that outline the roles and responsibilities of each security team member.
+2. 
