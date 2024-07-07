@@ -993,3 +993,5 @@ Playbooks are essential as urgency, efficiency and accuracy are necessary to qui
 Playbooks ensure people follow a consistent list of actions in a prescribed way, regardless of who is working on the case.
 
 Different types of playbooks are used. These include playbooks for incident response, security alerts, teams-specific, and product-specific purposes. Here, we focus on an incident response playbook.
+
+**Incident response** is an organization's quick attempt to identify an attack, contain the damage and correct the effects of a security breach.
