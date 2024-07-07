@@ -989,3 +989,5 @@ The user sign in overview dashboard provides information about user access behav
 A playbook is a manual that provides details about any operational action. Playbooks also clarify what tool should be used in response to a security incident.
 
 Playbooks are essential as urgency, efficiency and accuracy are necessary to quickly identify and mitigate a security threat to reduce potential risk.
+
+Playbooks ensure people follow a consistent list of actions in a prescribed way, regardless of who is working on the case.
