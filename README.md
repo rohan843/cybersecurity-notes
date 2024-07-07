@@ -991,3 +991,5 @@ A playbook is a manual that provides details about any operational action. Playb
 Playbooks are essential as urgency, efficiency and accuracy are necessary to quickly identify and mitigate a security threat to reduce potential risk.
 
 Playbooks ensure people follow a consistent list of actions in a prescribed way, regardless of who is working on the case.
+
+Different types of playbooks are used. These include playbooks for incident response, security alerts, teams-specific, and product-specific purposes. Here, we focus on an incident response playbook.
