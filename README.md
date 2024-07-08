@@ -79,7 +79,7 @@
       - [Rule detections dashboard](#rule-detections-dashboard)
       - [User sign in overview dashboard](#user-sign-in-overview-dashboard)
   - [Playbooks](#playbooks)
-    - [Incident Response Playbookk](#incident-response-playbookk)
+    - [Incident and Vulnerability Response Playbookk](#incident-and-vulnerability-response-playbookk)
 
 ## Cybersecurity
 
@@ -1007,7 +1007,11 @@ Different types of playbooks are used. These include playbooks for incident resp
 
 Each organization has a different set of playbook tools, methodologies, protocols, and procedures that they adhere to, and different individuals are involved at each step of the response process, depending on the country they are in. For example, incident notification requirements from government-imposed laws and regulations, along with compliance standards, affect the content in the playbooks. These requirements are subject to change based on where the incident originated and the type of data affected.
 
-### Incident Response Playbookk
+### Incident and Vulnerability Response Playbookk
+
+Incident and vulnerability response playbooks are commonly used by entry-level cybersecurity professionals. They are developed based on the goals outlined in an organization’s business continuity plan. A **business continuity plan** is an established path forward allowing a business to recover and continue to operate as normal, despite a disruption like a security breach.
+
+When an incident, threat, or vulnerability occurs or is identified, the level of risk to the organization depends on the potential damage to its assets. A basic formula for determining the level of risk is that risk equals the likelihood of a threat. For this reason, a sense of urgency is essential. Following the steps outlined in playbooks is also important if any forensic task is being carried out. Mishandling data can easily compromise forensic data, rendering it unusable.
 
 **Incident response** is an organization's quick attempt to identify an attack, contain the damage and correct the effects of a security breach.
 
