@@ -79,6 +79,7 @@
       - [Rule detections dashboard](#rule-detections-dashboard)
       - [User sign in overview dashboard](#user-sign-in-overview-dashboard)
   - [Playbooks](#playbooks)
+    - [Incident Response Playbookk](#incident-response-playbookk)
 
 ## Cybersecurity
 
@@ -998,11 +999,15 @@ Playbooks should be treated as **living documents**, which means that they are f
 
 Updates are often made if:
 
-1. A failure is identified, such as an oversight in the outlined policies and procedures, or in the playbook itself. 
+1. A failure is identified, such as an oversight in the outlined policies and procedures, or in the playbook itself.
 2. There is a change in industry standards, such as changes in laws or regulatory compliance.
 3. The cybersecurity landscape changes due to evolving threat actor tactics and techniques.
 
-Different types of playbooks are used. These include playbooks for incident response, security alerts, teams-specific, and product-specific purposes. Here, we focus on an incident response playbook.
+Different types of playbooks are used. These include playbooks for incident response, security alerts, teams-specific, and product-specific purposes.
+
+Each organization has a different set of playbook tools, methodologies, protocols, and procedures that they adhere to, and different individuals are involved at each step of the response process, depending on the country they are in. For example, incident notification requirements from government-imposed laws and regulations, along with compliance standards, affect the content in the playbooks. These requirements are subject to change based on where the incident originated and the type of data affected.
+
+### Incident Response Playbookk
 
 **Incident response** is an organization's quick attempt to identify an attack, contain the damage and correct the effects of a security breach.
 
