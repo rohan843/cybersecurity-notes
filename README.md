@@ -990,7 +990,17 @@ A playbook is a manual that provides details about any operational action. Playb
 
 Playbooks are essential as urgency, efficiency and accuracy are necessary to quickly identify and mitigate a security threat to reduce potential risk.
 
-Playbooks ensure people follow a consistent list of actions in a prescribed way, regardless of who is working on the case.
+Playbooks ensure people follow a consistent and up-to-date list of actions in a prescribed way, regardless of who is working on the case.
+
+Playbooks are accompanied by a **strategy**. The strategy outlines expectations of team members who are assigned a task, and some playbooks also list the individuals responsible. The outlined expectations are accompanied by a plan. The plan dictates how the specific task outlined in the playbook must be completed.
+
+Playbooks should be treated as **living documents**, which means that they are frequently updated by security team members to address industry changes and new threats. Playbooks are generally managed as a collaborative effort, since security team members have different levels of expertise.
+
+Updates are often made if:
+
+1. A failure is identified, such as an oversight in the outlined policies and procedures, or in the playbook itself. 
+2. There is a change in industry standards, such as changes in laws or regulatory compliance.
+3. The cybersecurity landscape changes due to evolving threat actor tactics and techniques.
 
 Different types of playbooks are used. These include playbooks for incident response, security alerts, teams-specific, and product-specific purposes. Here, we focus on an incident response playbook.
 
