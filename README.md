@@ -1015,7 +1015,7 @@ When an incident, threat, or vulnerability occurs or is identified, the level of
 
 **Incident response** is an organization's quick attempt to identify an attack, contain the damage and correct the effects of a security breach.
 
-Incident response playbooks guide the incident response process in 6 phases:
+Incident and vulnerability response playbooks guide the incident response process in 6 phases:
 
 1. **Preparation**: It involves organizations preparing to mitigate the risk, likelihood and impact of a security incident by documenting procedures, establishing staffing plans and educating users. For example, organizations can create incident response plans and procedures that outline the roles and responsibilities of each security team member.
 2. **Detection and analysis**: The objective of this phase is to detect and analyze events using defines processes and technology. It helps security analysts determine whether a breach has occurred, and define its magnitude.
