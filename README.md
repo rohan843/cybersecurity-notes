@@ -1046,3 +1046,5 @@ Networks can be of 2 types:
 **Switch**: It is a device that makes connections between specific devices on a network by sending and receiving data between them. It is more "intelligent" than a hub, passing data only to the intended destination. This makes a switch more secure than a hub, and allows them to control network traffic, thereby improving network performance.
 
 **Router**: It is a network device that connects multiple networks together.
+
+**Modems**: It is a device that connects a router to the internet and enables internet access to a LAN.
