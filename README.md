@@ -1048,3 +1048,5 @@ Networks can be of 2 types:
 **Router**: It is a network device that connects multiple networks together.
 
 **Modems**: It is a device that connects a router to the internet and enables internet access to a LAN.
+
+While these are physical devices, many of their tasks can be performed by virtualization tools (softwares that perform network operations).
