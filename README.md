@@ -1043,4 +1043,4 @@ Networks can be of 2 types:
 
 **Hub**: A hub is a network device that broadcasts information to every device on the network. It can be thought of as a radio tower omnidirectionally broadcasting messages to any radio tuned to the correct frequency.
 
-**Switch**: It is a device that makes connections between specific devices on a network by sending and receiving data between them. It is more "intelligent" than a hub, passing data only to the intended destination. This makes a switch more secure.
+**Switch**: It is a device that makes connections between specific devices on a network by sending and receiving data between them. It is more "intelligent" than a hub, passing data only to the intended destination. This makes a switch more secure than a hub, and allows them to control network traffic, thereby improving network performance.
