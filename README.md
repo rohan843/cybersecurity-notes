@@ -1031,4 +1031,4 @@ Say there has been a SIEM alert. A security analyst has to use a playbook to res
 
 ## Networks
 
-A network is a group of connected devices.
+A network is a group of connected devices. Devices on a network can connect to other devices on the network. Devices need to find each other on a network to establish communications, for which the devices use unique addresses.
