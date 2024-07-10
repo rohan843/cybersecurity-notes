@@ -81,6 +81,7 @@
   - [Playbooks](#playbooks)
     - [Incident and Vulnerability Response Playbook](#incident-and-vulnerability-response-playbook)
   - [Networks](#networks)
+    - [Common Network Devices](#common-network-devices)
 
 ## Cybersecurity
 
@@ -1037,3 +1038,7 @@ Networks can be of 2 types:
 
 1. **LAN (Local Area Network)**: A network that spans a small area, like an office building, a school or a home.
 2. **WAN (Wide Area Network)**: A network that spans a large geographic area like a city, state or country.
+
+### Common Network Devices
+
+**Hub**: A hub is a network device that broadcasts information to every device on the network. It can be thought of as a radio tower omnidirectionally broadcasting messages to any radio tuned to the correct frequency.
