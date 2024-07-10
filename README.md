@@ -1036,4 +1036,4 @@ A network is a group of connected devices. Devices on a network can connect to o
 Networks can be of 2 types:
 
 1. **LAN (Local Area Network)**: A network that spans a small area, like an office building, a school or a home.
-2. **WAN (Wide Area Network)**:
+2. **WAN (Wide Area Network)**: A network that spans a large geographic area like a city, state or country.
