@@ -1053,4 +1053,12 @@ Networks can be of 2 types:
 
 **Firewalls**: A firewall is a network security device that monitors traffic to or from a network. It is like the first line of defense. Firewalls can also restrict specific incoming and outgoing network traffic. The organization configures the security rules of the firewall. Firewalls often reside between the secured and controlled internal network and the untrusted network resources outside the organization, such as the internet. We should remember, though, that firewalls are just one line of defense in the cybersecurity landscape.
 
+**Servers**: Servers provide information and services for devices like computers, smart home devices, and smartphones on the network. The devices that connect to a server are called clients. Common examples include DNS servers that perform domain name lookups for internet sites, file servers that store and retrieve files from a database, and corporate mail servers that organize mail for a company.
+
+The following graphic outlines this model, which is called the client-server model:
+
+![alt text](assets/client-server.png)
+
+In this model, clients send requests to the server for information and services. The server performs the requests for the clients.
+
 While these are physical devices, many of their tasks can be performed by virtualization tools (softwares that perform network operations).
