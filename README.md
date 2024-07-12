@@ -1051,4 +1051,6 @@ Networks can be of 2 types:
 
 **Devices and desktop computers**: These are everyday devices, such as personal computers, laptops, mobile phones, and tablets. Each device and desktop computer has a unique MAC address and IP address, which identify it on the network. They also have a network interface that sends and receives data packets. These devices can connect to the network via a hard wire or a wireless connection.
 
+**Firewalls**: A firewall is a network security device that monitors traffic to or from a network. It is like the first line of defense. Firewalls can also restrict specific incoming and outgoing network traffic. The organization configures the security rules of the firewall. Firewalls often reside between the secured and controlled internal network and the untrusted network resources outside the organization, such as the internet. We should remember, though, that firewalls are just one line of defense in the cybersecurity landscape.
+
 While these are physical devices, many of their tasks can be performed by virtualization tools (softwares that perform network operations).
