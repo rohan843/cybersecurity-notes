@@ -1049,4 +1049,6 @@ Networks can be of 2 types:
 
 **Modems**: It is a device that connects a router to the internet and enables internet access to a LAN.
 
+**Devices and desktop computers**: These are everyday devices, such as personal computers, laptops, mobile phones, and tablets. Each device and desktop computer has a unique MAC address and IP address, which identify it on the network. They also have a network interface that sends and receives data packets. These devices can connect to the network via a hard wire or a wireless connection.
+
 While these are physical devices, many of their tasks can be performed by virtualization tools (softwares that perform network operations).
