@@ -82,6 +82,7 @@
     - [Incident and Vulnerability Response Playbook](#incident-and-vulnerability-response-playbook)
   - [Networks](#networks)
     - [Common Network Devices](#common-network-devices)
+    - [Network Diagrams](#network-diagrams)
 
 ## Cybersecurity
 
@@ -1070,3 +1071,13 @@ In this model, clients send requests to the server for information and services.
 ![](assets/home-network.png)
 
 In this diagram, a router connects to the internet through a modem, which is provided by an internet service provider (ISP). The firewall is a security device that monitors incoming and outgoing traffic on the network. The router then directs traffic to the devices on the home network, which can include computers, laptops, smartphones, tablets, printers, and other devices. We can imagine here that the server is a file server. All devices on this network can access the files in this server. This diagram also includes a switch which is an optional device that can be used to connect more devices to your network by providing additional ports and Ethernet connections. Additionally, there are 2 routers connected to the switch here for load balancing purposes which will improve the performance of the network.
+
+### Network Diagrams
+
+**Network diagrams** are maps that show the devices on the network and how they connect. Network diagrams use small representative graphics to portray each network device and dotted lines to show how each device connects to the other. By studying network diagrams, security analysts develop and refine their strategies for securing network architectures.
+
+Network diagrams allow network administrators and security personnel to imagine the architecture and design of their organization’s private network.
+
+The following is an example of a network diagram:
+
+![](assets/network-diagram.png)
