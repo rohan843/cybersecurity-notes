@@ -1041,7 +1041,7 @@ Networks can be of 2 types:
 
 ### Common Network Devices
 
-**Hub**: A hub is a network device that broadcasts information to every device on the network. It can be thought of as a radio tower omnidirectionally broadcasting messages to any radio tuned to the correct frequency.
+**Hub**: A hub is a network device that broadcasts information to every device on the network. It can be thought of as a radio tower omnidirectionally broadcasting messages to any radio tuned to the correct frequency. From a security perspective, this makes hubs vulnerable to eavesdropping. For this reason, hubs are not used as often on modern networks; most organizations use switches instead. Hubs are more commonly used for a limited network setup like a home office.
 
 **Switch**: It is a device that makes connections between specific devices on a network by sending and receiving data between them. It is more "intelligent" than a hub, passing data only to the intended destination. This makes a switch more secure than a hub, and allows them to control network traffic, thereby improving network performance.
 
@@ -1061,4 +1061,6 @@ The following graphic outlines this model, which is called the client-server mod
 
 In this model, clients send requests to the server for information and services. The server performs the requests for the clients.
 
-While these are physical devices, many of their tasks can be performed by virtualization tools (softwares that perform network operations).
+
+
+> While these are physical devices, many of their tasks can be performed by virtualization tools (softwares that perform network operations).
