@@ -1045,7 +1045,7 @@ Networks can be of 2 types:
 
 **Switch**: It is a device that makes connections between specific devices on a network by sending and receiving data between them. It is more "intelligent" than a hub, passing data only to the intended destination. This makes a switch more secure than a hub, and allows them to control network traffic, thereby improving network performance. They analyze the destination address of each data packet and send it to the intended device. Switches maintain a MAC address table that matches MAC addresses of devices on the network to port numbers on the switch and forwards incoming data packets according to the destination MAC address. Switches are a part of the data link layer in the TCP/IP model. Overall, switches improve performance and security.
 
-**Router**: It is a network device that connects multiple networks together.
+**Router**: Routers connect networks and direct traffic, based on the IP address of the destination network. Routers allow devices on different networks to communicate with each other. In the TCP/IP model, routers are a part of the network layer. The IP address of the destination network is contained in the IP header. The router reads the IP header information and forwards the packet to the next router on the path to the destination. This continues until the packet reaches the destination network. Routers can also include a firewall feature that allows or blocks incoming traffic based on information in the transmission. This stops malicious traffic from entering the private network and damaging the local area network.
 
 **Modems**: It is a device that connects a router to the internet and enables internet access to a LAN.
 
@@ -1060,7 +1060,5 @@ The following graphic outlines this model, which is called the client-server mod
 ![alt text](assets/client-server.png)
 
 In this model, clients send requests to the server for information and services. The server performs the requests for the clients.
-
-
 
 > While these are physical devices, many of their tasks can be performed by virtualization tools (softwares that perform network operations).
