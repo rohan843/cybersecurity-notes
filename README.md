@@ -1049,6 +1049,10 @@ Networks can be of 2 types:
 
 **Modems**: It is a device that connects a router to the internet and enables internet access to a LAN. ISPs provide internet connectivity via telephone lines or coaxial cables. Modems receive transmissions or digital signals from the internet and translate them into analog signals that can travel through the physical connection provided by an ISP. Usually, modems connect to a router that takes the decoded transmissions and sends them on to the local network.
 
+> Enterprise networks used by large organizations to connect their users and devices often use other broadband technologies to handle high-volume traffic, instead of using a modem.
+
+**Wireless access point**: A wireless access point sends and receives digital signals over radio waves creating a wireless network. Devices with wireless adapters connect to the access point using Wi-Fi. Wi-Fi refers to a set of standards that are used by network devices to communicate wirelessly. Wireless access points and the devices connected to them use Wi-Fi protocols to send data through radio waves where they are sent to routers and switches and directed along the path to their final destination.
+
 **Devices and desktop computers**: These are everyday devices, such as personal computers, laptops, mobile phones, and tablets. Each device and desktop computer has a unique MAC address and IP address, which identify it on the network. They also have a network interface that sends and receives data packets. These devices can connect to the network via a hard wire or a wireless connection.
 
 **Firewalls**: A firewall is a network security device that monitors traffic to or from a network. It is like the first line of defense. Firewalls can also restrict specific incoming and outgoing network traffic. The organization configures the security rules of the firewall. Firewalls often reside between the secured and controlled internal network and the untrusted network resources outside the organization, such as the internet. We should remember, though, that firewalls are just one line of defense in the cybersecurity landscape.
