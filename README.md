@@ -1067,6 +1067,6 @@ In this model, clients send requests to the server for information and services.
 
 > While these are physical devices, many of their tasks can be performed by virtualization tools (softwares that perform network operations).
 
-![](image.png)
+![](assets/home-network.png)
 
 In this diagram, a router connects to the internet through a modem, which is provided by an internet service provider (ISP). The firewall is a security device that monitors incoming and outgoing traffic on the network. The router then directs traffic to the devices on the home network, which can include computers, laptops, smartphones, tablets, printers, and other devices. We can imagine here that the server is a file server. All devices on this network can access the files in this server. This diagram also includes a switch which is an optional device that can be used to connect more devices to your network by providing additional ports and Ethernet connections. Additionally, there are 2 routers connected to the switch here for load balancing purposes which will improve the performance of the network.
